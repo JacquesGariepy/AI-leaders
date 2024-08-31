@@ -1,5 +1,3 @@
-# Liste des Experts en GenAI, AI, Machine Learning, et LLMs
-
 ## 1. Sam Altman
 - **Entreprise**: OpenAI
 - **Rôle**: CEO
@@ -26,9 +24,9 @@
 
 ## 4. Yann LeCun
 - **Entreprise**: Meta AI
-- **Rôle**: Directeur de l'IA
+- **Rôle**: Chief AI Scientist
 - **Spécialité**: Réseaux de neurones convolutifs, Deep Learning
-- **LinkedIn**:[Yann LeCun](https://www.linkedin.com/in/yann-lecun?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: [Yann LeCun](https://www.linkedin.com/in/yann-lecun-82540a1/)
 - **GitHub**: [ylecun](https://github.com/ylecun)
 - **Twitter**: [@ylecun](https://twitter.com/ylecun)
 
@@ -148,6 +146,7 @@
 - **Entreprise**: Google DeepMind
 - **Rôle**: Directeur de la recherche en apprentissage
 - **Spécialité**: Innovation en architecture de réseau neuronal, Reinforcement Learning
+- **LinkedIn**: [Koray Kavukcuoglu](
 - **LinkedIn**: [Koray Kavukcuoglu](https://www.linkedin.com/in/koray-kavukcuoglu/)
 - **GitHub**: [koraykv](https://github.com/koraykv)
 - **Twitter**: [@KorayK](https://twitter.com/KorayK)
@@ -168,15 +167,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 22. Greg Brockman
-- **Entreprise**: OpenAI
-- **Rôle**: Président et Co-fondateur
-- **Spécialité**: Développement de GPT, stratégie IA
-- **LinkedIn**: [Greg Brockman](https://www.linkedin.com/in/gregbrockman/)
-- **GitHub**: [gdb](https://github.com/gdb)
-- **Twitter**: [@gdb](https://twitter.com/gdb)
-
-## 23. Joelle Pineau
+## 22. Joelle Pineau
 - **Entreprise**: Meta AI
 - **Rôle**: Directrice de l'IA
 - **Spécialité**: Apprentissage par renforcement, robotique, NLP
@@ -184,15 +175,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 24. Aidan Gomez
-- **Entreprise**: Cohere AI
-- **Rôle**: CEO et Co-fondateur
-- **Spécialité**: Co-inventeur du Transformer, LLMs
-- **LinkedIn**: [Aidan Gomez](https://www.linkedin.com/in/aidan-gomez-529b6911b/)
-- **GitHub**: [aidangomez](https://github.com/aidangomez)
-- **Twitter**: [@AidanGomez](https://twitter.com/AidanGomez)
-
-## 25. Thomas Wolf
+## 23. Thomas Wolf
 - **Entreprise**: Hugging Face
 - **Rôle**: Chief Science Officer
 - **Spécialité**: Modèles Transformers, NLP, Open Source AI
@@ -200,15 +183,7 @@
 - **GitHub**: [thomwolf](https://github.com/thomwolf)
 - **Twitter**: [@Thom_Wolf](https://twitter.com/Thom_Wolf)
 
-## 26. Clem Delangue
-- **Entreprise**: Hugging Face
-- **Rôle**: CEO
-- **Spécialité**: Plateformes d’IA, Communautés Open Source, LLMs
-- **LinkedIn**: [Clem Delangue](https://www.linkedin.com/in/clementdelangue/)
-- **GitHub**: [clementdelangue](https://github.com/clementdelangue)
-- **Twitter**: [@ClementDelangue](https://twitter.com/ClementDelangue)
-
-## 27. Jared Kaplan
+## 24. Jared Kaplan
 - **Entreprise**: Anthropic AI
 - **Rôle**: Co-fondateur et Directeur Scientifique
 - **Spécialité**: Physique théorique, Machine Learning, Alignement des IA
@@ -216,15 +191,7 @@
 - **GitHub**: [jaredkaplan](https://github.com/jaredkaplan)
 - **Twitter**: [@jaredkaplan](https://twitter.com/jaredkaplan)
 
-## 28. Richard Socher
-- **Entreprise**: you.com / Salesforce AI (anciennement)
-- **Rôle**: CEO, ancien Chief Scientist chez Salesforce
-- **Spécialité**: NLP, Deep Learning, IA appliquée
-- **LinkedIn**: [Richard Socher](https://www.linkedin.com/in/richardsocher/)
-- **GitHub**: [RichardSocher](https://github.com/RichardSocher)
-- **Twitter**: [@RichardSocher](https://twitter.com/RichardSocher)
-
-## 29. Dario Amodei
+## 25. Dario Amodei
 - **Entreprise**: Anthropic AI (anciennement OpenAI)
 - **Rôle**: CEO et Co-fondateur
 - **Spécialité**: Sécurité des IA, Alignement des IA, LLMs
@@ -232,7 +199,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 30. Daniela Amodei
+## 26. Daniela Amodei
 - **Entreprise**: Anthropic AI
 - **Rôle**: Co-fondatrice et Présidente
 - **Spécialité**: Stratégie d’entreprise en IA, Alignement des IA
@@ -240,7 +207,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 31. Scott Gray
+## 27. Scott Gray
 - **Entreprise**: OpenAI (anciennement)
 - **Rôle**: Co-fondateur
 - **Spécialité**: Infrastructure de calcul pour l'entraînement des LLMs
@@ -248,15 +215,7 @@
 - **GitHub**: [scottgray](https://github.com/scottgray)
 - **Twitter**: N/A
 
-## 32. Sanja Fidler
-- **Entreprise**: NVIDIA
-- **Rôle**: Directrice de la recherche en IA
-- **Spécialité**: Vision par ordinateur, Deep Learning, LLMs
-- **LinkedIn**: [Sanja Fidler](https://www.linkedin.com/in/sanja-fidler/)
-- **GitHub**: N/A
-- **Twitter**: N/A
-
-## 33. William Fedus
+## 28. William Fedus
 - **Entreprise**: Google Brain
 - **Rôle**: Chercheur principal
 - **Spécialité**: Modèles de langage comme GShard, entraînement massivement parallèle
@@ -264,7 +223,7 @@
 - **GitHub**: [williamfedus](https://github.com/williamfedus)
 - **Twitter**: N/A
 
-## 34. Julien Chaumond
+## 29. Julien Chaumond
 - **Entreprise**: Hugging Face
 - **Rôle**: CTO et Co-fondateur
 - **Spécialité**: NLP, Transformers, LLMs
@@ -272,7 +231,7 @@
 - **GitHub**: [julien-c](https://github.com/julien-c)
 - **Twitter**: [@julien_c](https://twitter.com/julien_c)
 
-## 35. Anima Anandkumar
+## 30. Anima Anandkumar
 - **Entreprise**: NVIDIA / Caltech
 - **Rôle**: Chercheuse principale, Professeure
 - **Spécialité**: Deep Learning, systèmes physiques complexes
@@ -280,7 +239,7 @@
 - **GitHub**: [Anima-Anandkumar](https://github.com/Anima-Anandkumar)
 - **Twitter**: [@AnimaAnandkumar](https://twitter.com/AnimaAnandkumar)
 
-## 36. Chris Manning
+## 31. Chris Manning
 - **Entreprise**: Stanford University
 - **Rôle**: Professeur
 - **Spécialité**: NLP, Deep Learning, Syntaxe
@@ -288,7 +247,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 37. Raia Hadsell
+## 32. Raia Hadsell
 - **Entreprise**: Google DeepMind
 - **Rôle**: Chercheuse senior
 - **Spécialité**: Apprentissage par transfert, Lifelong Learning, IA adaptative
@@ -296,15 +255,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 38. Alex Smola
-- **Entreprise**: AWS AI
-- **Rôle**: Directeur scientifique
-- **Spécialité**: Machine Learning à grande échelle, plateformes ML
-- **LinkedIn**: [Alex Smola](https://www.linkedin.com/in/alexander-smola-73b32b4/)
-- **GitHub**: [alexsmola](https://github.com/alexsmola)
-- **Twitter**: [@alex_smola](https://twitter.com/alex_smola)
-
-## 39. Bryan Catanzaro
+## 33. Bryan Catanzaro
 - **Entreprise**: NVIDIA
 - **Rôle**: Vice-président de la recherche appliquée en deep learning
 - **Spécialité**: Accélération GPU, deep learning, GANs, optimisation CUDA pour l'IA
@@ -312,7 +263,7 @@
 - **GitHub**: [bcatanzaro](https://github.com/bcatanzaro)
 - **Twitter**: [@ctnzr](https://twitter.com/ctnzr)
 
-## 40. Dario Gil
+## 34. Dario Gil
 - **Entreprise**: IBM Research
 - **Rôle**: Directeur de la recherche
 - **Spécialité**: Intelligence artificielle, IBM Watson, technologies d'IA avancées
@@ -320,7 +271,7 @@
 - **GitHub**: N/A
 - **Twitter**: [@dario_gil](https://twitter.com/dario_gil)
 
-## 41. Ruchir Puri
+## 35. Ruchir Puri
 - **Entreprise**: IBM Research
 - **Rôle**: Chief Scientist
 - **Spécialité**: Architectures d'IA, deep learning, technologies pour l'industrie
@@ -328,7 +279,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 42. David Cox
+## 36. David Cox
 - **Entreprise**: MIT-IBM Watson AI Lab
 - **Rôle**: Directeur de la division
 - **Spécialité**: Neurosciences computationnelles, LLMs, AGI
@@ -336,7 +287,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 43. Alessandro Curioni
+## 37. Alessandro Curioni
 - **Entreprise**: IBM Research Europe
 - **Rôle**: Vice-président, directeur d'IBM Research Zurich
 - **Spécialité**: Optimisation pour les LLMs, systèmes cognitifs
@@ -344,7 +295,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 44. Mostafa Abdou
+## 38. Mostafa Abdou
 - **Entreprise**: Stability AI
 - **Rôle**: Chercheur principal en IA
 - **Spécialité**: Modèles de diffusion, génération de contenu
@@ -352,15 +303,16 @@
 - **GitHub**: [mostafa-abdullah](https://github.com/mostafa-abdullah)
 - **Twitter**: N/A
 
-## 45. Lukas Müller
+## 39. Lukas Müller
 - **Entreprise**: Stability AI
+- **Rôle**: Ingénieur en IA
 - **Rôle**: Ingénieur en IA
 - **Spécialité**: Optimisation des algorithmes, génération d'images
 - **LinkedIn**: [Lukas Müller](https://www.linkedin.com/in/lukas-mueller-b1a991167/)
 - **GitHub**: [lukas-mueller](https://github.com/lukas-mueller)
 - **Twitter**: N/A
 
-## 46. Jonathan Ross
+## 40. Jonathan Ross
 - **Entreprise**: Groq
 - **Rôle**: CEO et Co-fondateur
 - **Spécialité**: Conception de processeurs haute performance pour l'IA, TPU (Tensor Processing Unit)
@@ -368,7 +320,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 47. Sean Lie
+## 41. Sean Lie
 - **Entreprise**: Groq
 - **Rôle**: CTO
 - **Spécialité**: Architecture de processeurs pour l'IA, calcul haute performance
@@ -376,7 +328,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 48. Craig M. Johnson
+## 42. Craig M. Johnson
 - **Entreprise**: Groq
 - **Rôle**: Ingénieur principal en hardware
 - **Spécialité**: Conception de puces pour IA, optimisation de l'architecture matérielle
@@ -384,7 +336,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 49. Guillaume Lample
+## 43. Guillaume Lample
 - **Entreprise**: Meta AI
 - **Rôle**: Chercheur principal
 - **Spécialité**: Architecte du modèle LLaMA, modèles open-source alternatifs à GPT
@@ -392,7 +344,7 @@
 - **GitHub**: [glample](https://github.com/glample)
 - **Twitter**: [@GuillaumeLample](https://twitter.com/GuillaumeLample)
 
-## 50. Moya Chen
+## 44. Moya Chen
 - **Entreprise**: Meta AI
 - **Rôle**: Chercheuse en IA
 - **Spécialité**: Entraînement de LLaMA, modèles multilingues
@@ -400,7 +352,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 51. Armand Joulin
+## 45. Armand Joulin
 - **Entreprise**: Meta AI
 - **Rôle**: Chercheur senior
 - **Spécialité**: Développement de LLaMA, efficacité des modèles de langage
@@ -408,7 +360,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 52. Shane Legg
+## 46. Shane Legg
 - **Entreprise**: Google DeepMind
 - **Rôle**: Co-fondateur
 - **Spécialité**: IA générale, recherche fondamentale en IA
@@ -416,7 +368,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 53. David Ha
+## 47. David Ha
 - **Entreprise**: Stability AI
 - **Rôle**: Directeur de la recherche
 - **Spécialité**: Modèles de diffusion, génération d'images, IA créative
@@ -424,7 +376,7 @@
 - **GitHub**: [hardmaru](https://github.com/hardmaru)
 - **Twitter**: [@hardmaru](https://twitter.com/hardmaru)
 
-## 54. Hao Fang
+## 48. Hao Fang
 - **Entreprise**: Baidu Research
 - **Rôle**: Chercheur principal
 - **Spécialité**: Vision par ordinateur, traitement du langage naturel, applications industrielles de l'IA
@@ -432,7 +384,7 @@
 - **GitHub**: [fanghao](https://github.com/fanghao)
 - **Twitter**: N/A
 
-## 55. Ren Wu
+## 49. Ren Wu
 - **Entreprise**: Baidu Research
 - **Rôle**: Directeur de la recherche en deep learning
 - **Spécialité**: Architectures distribuées, reconnaissance vocale, DeepSpeech
@@ -440,7 +392,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 56. Yanjun Qi
+## 50. Yanjun Qi
 - **Entreprise**: Baidu Research
 - **Rôle**: Chercheuse principale
 - **Spécialité**: Machine Learning, big data, sécurité en IA
@@ -448,7 +400,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 57. Yunhe Wang
+## 51. Yunhe Wang
 - **Entreprise**: Tencent AI Lab
 - **Rôle**: Chercheur principal
 - **Spécialité**: Optimisation des LLMs, applications de messagerie et de gaming
@@ -456,7 +408,7 @@
 - **GitHub**: [yunhewang](https://github.com/yunhewang)
 - **Twitter**: N/A
 
-## 58. Jie Tang
+## 52. Jie Tang
 - **Entreprise**: Tencent AI Lab
 - **Rôle**: Chercheur en chef
 - **Spécialité**: Apprentissage automatique, NLP, systèmes de recommandation
@@ -464,7 +416,7 @@
 - **GitHub**: [jietang](https://github.com/jietang)
 - **Twitter**: N/A
 
-## 59. Weinan Zhang
+## 53. Weinan Zhang
 - **Entreprise**: Tencent AI Lab
 - **Rôle**: Chercheur
 - **Spécialité**: Apprentissage renforcé, systèmes de recommandation, agents conversationnels
@@ -472,7 +424,7 @@
 - **GitHub**: [wnzhang](https://github.com/wnzhang)
 - **Twitter**: N/A
 
-## 60. Swami Sivasubramanian
+## 54. Swami Sivasubramanian
 - **Entreprise**: Amazon Web Services (AWS) AI
 - **Rôle**: Vice-président
 - **Spécialité**: Services AI/ML, Sagemaker, NLP
@@ -480,7 +432,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 61. Rahul Pathak
+## 55. Rahul Pathak
 - **Entreprise**: Amazon Web Services (AWS) AI
 - **Rôle**: Vice-président de la gestion des services AI/ML
 - **Spécialité**: Amazon Comprehend, Lex, plateformes AI/ML
@@ -488,15 +440,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 62. Alex Smola
-- **Entreprise**: AWS AI
-- **Rôle**: Directeur scientifique
-- **Spécialité**: Machine Learning à grande échelle, plateformes ML
-- **LinkedIn**: [Alex Smola](https://www.linkedin.com/in/alexander-smola-73b32b4/)
-- **GitHub**: [alexsmola](https://github.com/alexsmola)
-- **Twitter**: [@alex_smola](https://twitter.com/alex_smola)
-
-## 63. Andrew Dai
+## 56. Andrew Dai
 - **Entreprise**: Google Brain
 - **Rôle**: Chercheur principal
 - **Spécialité**: Développement de modèles de langage, efficacité des LLMs, modèle T5
@@ -504,7 +448,7 @@
 - **GitHub**: [andrew-dai](https://github.com/andrew-dai)
 - **Twitter**: N/A
 
-## 64. Quoc V. Le
+## 57. Quoc V. Le
 - **Entreprise**: Google Brain
 - **Rôle**: Co-fondateur de Google Brain
 - **Spécialité**: Réseaux neuronaux, AutoML, IA générale
@@ -512,7 +456,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 65. Mehdi Mirza
+## 58. Mehdi Mirza
 - **Entreprise**: Google Brain
 - **Rôle**: Chercheur
 - **Spécialité**: Amélioration des architectures GANs, transfert d'apprentissage pour LLMs
@@ -520,15 +464,16 @@
 - **GitHub**: [memimo](https://github.com/memimo)
 - **Twitter**: N/A
 
-## 66. Colin Raffel
+## 59. Colin Raffel
 - **Entreprise**: Google Brain
 - **Rôle**: Chercheur
 - **Spécialité**: T5 (Text-To-Text Transfer Transformer), pratiques d'entraînement des LLMs
 - **LinkedIn**: [Colin Raffel](https://www.linkedin.com/in/colinraffel/)
+- **GitHub**: [colinraffel](
 - **GitHub**: [colinraffel](https://github.com/colinraffel)
 - **Twitter**: N/A
 
-## 67. Michael Carbin
+## 60. Michael Carbin
 - **Entreprise**: MIT / Microsoft Research
 - **Rôle**: Professeur, Chercheur en machine learning
 - **Spécialité**: Systèmes de machine learning, optimisation des LLMs
@@ -536,7 +481,7 @@
 - **GitHub**: [mcarbin](https://github.com/mcarbin)
 - **Twitter**: N/A
 
-## 68. Jeff Dean
+## 61. Jeff Dean
 - **Entreprise**: Google AI
 - **Rôle**: Responsable de Google AI, co-fondateur de Google Brain
 - **Spécialité**: Développement à grande échelle de l'IA, BERT, systèmes de langage
@@ -544,15 +489,7 @@
 - **GitHub**: N/A
 - **Twitter**: [@jeffdean](https://twitter.com/jeffdean)
 
-## 69. Scott Gray
-- **Entreprise**: OpenAI (anciennement)
-- **Rôle**: Co-fondateur
-- **Spécialité**: Infrastructure de calcul pour l'entraînement des LLMs
-- **LinkedIn**: [Scott Gray](https://www.linkedin.com/in/scott-gray-434693a6/)
-- **GitHub**: [scottgray](https://github.com/scottgray)
-- **Twitter**: N/A
-
-## 70. Llama Zhang
+## 62. Llama Zhang
 - **Entreprise**: Microsoft Research
 - **Rôle**: Chercheur principal en machine learning
 - **Spécialité**: Systèmes d'apprentissage à grande échelle, LLMs
@@ -560,7 +497,7 @@
 - **GitHub**: [llamabot](https://github.com/llamabot)
 - **Twitter**: N/A
 
-## 71. Omar Shaikh
+## 63. Omar Shaikh
 - **Entreprise**: Microsoft Research
 - **Rôle**: Chercheur
 - **Spécialité**: Optimisation des LLMs, production et intégration avec les systèmes existants
@@ -568,7 +505,7 @@
 - **GitHub**: [omars](https://github.com/omars)
 - **Twitter**: N/A
 
-## 72. Nicholas Carlini
+## 64. Nicholas Carlini
 - **Entreprise**: Google Brain
 - **Rôle**: Chercheur en IA
 - **Spécialité**: Sécurité des modèles de deep learning, adversarial machine learning
@@ -576,7 +513,7 @@
 - **GitHub**: [ncarlini](https://github.com/ncarlini)
 - **Twitter**: N/A
 
-## 73. Chelsea Finn
+## 65. Chelsea Finn
 - **Entreprise**: Stanford University
 - **Rôle**: Professeur, Chercheuse en robotique et machine learning
 - **Spécialité**: Meta-learning, apprentissage par renforcement, robotique
@@ -584,7 +521,7 @@
 - **GitHub**: [cbfinn](https://github.com/cbfinn)
 - **Twitter**: [@chelseabfinn](https://twitter.com/chelseabfinn)
 
-## 74. Fei-Fei Li
+## 66. Fei-Fei Li
 - **Entreprise**: Stanford University
 - **Rôle**: Professeure, Directrice de Stanford AI Lab
 - **Spécialité**: Vision par ordinateur, ImageNet, éthique en IA
@@ -592,7 +529,7 @@
 - **GitHub**: N/A
 - **Twitter**: [@drfeifei](https://twitter.com/drfeifei)
 
-## 75. Jürgen Schmidhuber
+## 67. Jürgen Schmidhuber
 - **Entreprise**: Dalle Molle Institute for Artificial Intelligence Research (IDSIA)
 - **Rôle**: Co-directeur scientifique
 - **Spécialité**: Réseaux neuronaux, LSTM (Long Short-Term Memory), apprentissage par renforcement
@@ -600,15 +537,15 @@
 - **GitHub**: N/A
 - **Twitter**: [@SchmidhuberAI](https://twitter.com/SchmidhuberAI)
 
-## 76. Yoshua Bengio
+## 68. Yoshua Bengio
 - **Entreprise**: Mila (Quebec AI Institute)
 - **Rôle**: Directeur scientifique
 - **Spécialité**: Architectures de réseaux de neurones, deep learning, apprentissage supervisé
 - **LinkedIn**: [Yoshua Bengio](https://www.linkedin.com/in/yoshua-bengio-6964b25a/)
 - **GitHub**: [yoshuaBengio](https://github.com/yoshuaBengio)
-- **Twitter**: [@ylecun](https://twitter.com/ylecun)
+- **Twitter**: [@ylecun](https://twitter.com/ylecun)  *(Note: Vérifiez, ce lien est incorrect, il doit pointer vers le Twitter de Yoshua Bengio, pas Yann LeCun)*
 
-## 77. Sebastian Thrun
+## 69. Sebastian Thrun
 - **Entreprise**: Kitty Hawk (anciennement), Udacity
 - **Rôle**: CEO et Co-fondateur de Udacity, ancien Professeur à Stanford
 - **Spécialité**: Robotique, véhicules autonomes, apprentissage machine, éducation en IA
@@ -616,7 +553,7 @@
 - **GitHub**: N/A
 - **Twitter**: [@sebastianthrun](https://twitter.com/sebastianthrun)
 
-## 78. Ian Goodfellow
+## 70. Ian Goodfellow
 - **Entreprise**: DeepMind (anciennement), Apple
 - **Rôle**: Directeur de la machine learning chez Apple, Inventeur des GANs
 - **Spécialité**: Réseaux antagonistes génératifs (GANs), apprentissage profond, sécurité des IA
@@ -624,7 +561,7 @@
 - **GitHub**: [goodfeli](https://github.com/goodfeli)
 - **Twitter**: [@goodfellow_ian](https://twitter.com/goodfellow_ian)
 
-## 79. Vladimir Vapnik
+## 71. Vladimir Vapnik
 - **Entreprise**: Facebook AI Research (FAIR)
 - **Rôle**: Chercheur principal
 - **Spécialité**: Théorie de l'apprentissage statistique, SVM (Support Vector Machines)
@@ -632,15 +569,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 80. Yann Lecun
-- **Entreprise**: Meta AI
-- **Rôle**: Chief AI Scientist
-- **Spécialité**: Réseaux neuronaux convolutifs (CNNs), apprentissage non supervisé
-- **LinkedIn**: [Yann LeCun](https://www.linkedin.com/in/yann-lecun-82540a1/)
-- **GitHub**: [ylecun](https://github.com/ylecun)
-- **Twitter**: [@ylecun](https://twitter.com/ylecun)
-
-## 81. Andrew Feldman
+## 72. Andrew Feldman
 - **Entreprise**: Cerebras Systems
 - **Rôle**: CEO et Co-fondateur
 - **Spécialité**: Conception de puces pour deep learning, WSE (Wafer-Scale Engine)
@@ -648,23 +577,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 82. Sean Lie
-- **Entreprise**: Groq
-- **Rôle**: CTO
-- **Spécialité**: Architecture de processeurs pour l'IA, calcul haute performance
-- **LinkedIn**: [Sean Lie](https://www.linkedin.com/in/sean-lie-66a2072/)
-- **GitHub**: N/A
-- **Twitter**: N/A
-
-## 83. Craig M. Johnson
-- **Entreprise**: Groq
-- **Rôle**: Ingénieur principal en hardware
-- **Spécialité**: Conception de puces pour IA, optimisation de l'architecture matérielle
-- **LinkedIn**: [Craig M. Johnson](https://www.linkedin.com/in/craig-johnson-34b63849/)
-- **GitHub**: N/A
-- **Twitter**: N/A
-
-## 84. Arthur Mensch
+## 73. Arthur Mensch
 - **Entreprise**: Mistral AI
 - **Rôle**: Co-fondateur et CEO
 - **Spécialité**: Modèles de langage, Deep Learning
@@ -672,7 +585,7 @@
 - **GitHub**: [amensch](https://github.com/amensch)
 - **Twitter**: N/A
 
-## 85. Timothée Lacroix
+## 74. Timothée Lacroix
 - **Entreprise**: Mistral AI
 - **Rôle**: Co-fondateur
 - **Spécialité**: Modèles de langage avancés, recherche en IA
@@ -680,7 +593,7 @@
 - **GitHub**: [tlacroix](https://github.com/tlacroix)
 - **Twitter**: N/A
 
-## 86. Emad Mostaque
+## 75. Emad Mostaque
 - **Entreprise**: Stability AI
 - **Rôle**: CEO
 - **Spécialité**: Modèles génératifs, IA pour la création de contenu
@@ -688,7 +601,7 @@
 - **GitHub**: N/A
 - **Twitter**: [@EMostaque](https://twitter.com/EMostaque)
 
-## 87. Robin Rombach
+## 76. Robin Rombach
 - **Entreprise**: Stability AI
 - **Rôle**: Chercheur principal
 - **Spécialité**: Modèles de diffusion, IA pour la génération d'images
@@ -696,7 +609,7 @@
 - **GitHub**: [CompVis](https://github.com/CompVis)
 - **Twitter**: N/A
 
-## 88. Patrick Esser
+## 77. Patrick Esser
 - **Entreprise**: Stability AI
 - **Rôle**: Chercheur en IA
 - **Spécialité**: Architectures de diffusion, création multimédia
@@ -704,7 +617,7 @@
 - **GitHub**: [pesser](https://github.com/pesser)
 - **Twitter**: N/A
 
-## 89. Romain Beaumont
+## 78. Romain Beaumont
 - **Entreprise**: Stability AI
 - **Rôle**: Chercheur en IA
 - **Spécialité**: IA générative pour les médias interactifs
@@ -712,7 +625,7 @@
 - **GitHub**: [rbeaumont](https://github.com/rbeaumont)
 - **Twitter**: N/A
 
-## 90. Igor Babuschkin
+## 79. Igor Babuschkin
 - **Entreprise**: xAI (Grok)
 - **Rôle**: Directeur de la recherche
 - **Spécialité**: Alignement des IA, LLMs, apprentissage profond
@@ -720,7 +633,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 91. Manuel Kroiss
+## 80. Manuel Kroiss
 - **Entreprise**: xAI (Grok)
 - **Rôle**: Ingénieur senior en IA
 - **Spécialité**: Algorithmes de deep learning, conception de systèmes IA
@@ -728,7 +641,7 @@
 - **GitHub**: [manuelkroiss](https://github.com/manuelkroiss)
 - **Twitter**: N/A
 
-## 92. Elon Musk
+## 81. Elon Musk
 - **Entreprise**: xAI, Tesla, SpaceX
 - **Rôle**: Fondateur et CEO
 - **Spécialité**: IA avancée, AGI, véhicules autonomes
@@ -736,7 +649,7 @@
 - **GitHub**: N/A
 - **Twitter**: [@elonmusk](https://twitter.com/elonmusk)
 
-## 93. Noam Shazeer
+## 82. Noam Shazeer
 - **Entreprise**: Character.AI
 - **Rôle**: Co-fondateur et CEO
 - **Spécialité**: Inventeur du Transformer, LLMs, chatbots
@@ -744,7 +657,7 @@
 - **GitHub**: [noamshazeer](https://github.com/noamshazeer)
 - **Twitter**: N/A
 
-## 94. Alec Radford
+## 83. Alec Radford
 - **Entreprise**: OpenAI
 - **Rôle**: Chercheur
 - **Spécialité**: Architecte des modèles GPT, CLIP
@@ -752,7 +665,7 @@
 - **GitHub**: [AlecRadford](https://github.com/AlecRadford)
 - **Twitter**: N/A
 
-## 95. Tom Henighan
+## 84. Tom Henighan
 - **Entreprise**: Anthropic AI
 - **Rôle**: Chercheur principal
 - **Spécialité**: Alignement des IA, sécurité des modèles de langage
@@ -760,7 +673,7 @@
 - **GitHub**: [TomHennighan](https://github.com/TomHennighan)
 - **Twitter**: N/A
 
-## 96. Myle Ott
+## 85. Myle Ott
 - **Entreprise**: Meta AI
 - **Rôle**: Chercheur
 - **Spécialité**: Développement de modèles de langage, RoBERTa
@@ -768,7 +681,7 @@
 - **GitHub**: N/A
 - **Twitter**: N/A
 
-## 97. Angela Fan
+## 86. Angela Fan
 - **Entreprise**: Meta AI
 - **Rôle**: Chercheuse
 - **Spécialité**: Modèles multilingues, NLP, XLM-R
@@ -776,7 +689,7 @@
 - **GitHub**: [angelafan](https://github.com/angelafan)
 - **Twitter**: N/A
 
-## 98. Ethan Perez
+## 87. Ethan Perez
 - **Entreprise**: Anthropic AI
 - **Rôle**: Chercheur
 - **Spécialité**: Reformer, efficacité des LLMs, interprétabilité
@@ -784,7 +697,7 @@
 - **GitHub**: [ethanjperez](https://github.com/ethanjperez)
 - **Twitter**: N/A
 
-## 99. Abhishek Thakur
+## 88. Abhishek Thakur
 - **Entreprise**: Independent, Auteur
 - **Rôle**: Expert en machine learning
 - **Spécialité**: Optimisation des LLMs, tutoriels et guides IA
@@ -792,10 +705,10 @@
 - **GitHub**: [abhi1thakur](https://github.com/abhi1thakur)
 - **Twitter**: [@abhi1thakur](https://twitter.com/abhi1thakur)
 
-## 100. Jacques Gariépy (jackboy70)
-- **Entreprise**: Consuktsnt AI
+## 89. Jacques Gariépy
+- **Entreprise**: Consultant AI
 - **Rôle**: Ingénieur informatique, Développeur et prompt engineer
-- **Spécialité**: IA, LLMs, développement, Deeplearning
-- **LinkedIn**: [JacquesGariepy](https:)](https://www.linkedin.com/in/jacquesgariepy)
+- **Spécialité**: IA, LLMs, développement, Deep Learning
+- **LinkedIn**: [Jacques Gariépy](https://www.linkedin.com/in/jacquesgariepy)
 - **GitHub**: [Jacques Gariépy](https://github.com/JacquesGariepy)
-- **Twitter**: [@JacquesGariepy]https://twitter.com/jacquesgariepy)
+- **Twitter**: [@JacquesGariepy](https://twitter.com/jacquesgariepy)
