@@ -7,7 +7,7 @@
 - **Twitter**: [@sama](https://twitter.com/sama)
 - https://blog.samaltman.com/
 
-**Andrej Karpathy** : Ancien ingénieur en chef chez Tesla, spécialiste en vision par ordinateur et apprentissage profond, il a également travaillé sur des modèles de langage chez OpenAI.
+## Andrej Karpathy : Ancien ingénieur en chef chez Tesla, spécialiste en vision par ordinateur et apprentissage profond, il a également travaillé sur des modèles de langage chez OpenAI.
 - LinkedIn : [Andrej Karpathy](https://www.linkedin.com/in/karpathy/)
 - GitHub : [karpathy](https://github.com/karpathy)
 
@@ -27,7 +27,6 @@
 - **LinkedIn**: [Demis Hassabis](https://www.linkedin.com/in/demishassabis/)
 - **GitHub**: N/A
 - **Twitter**: [@demishassabis](https://twitter.com/demishassabis)
-
 
 ## Yann LeCun
 - **Entreprise**: Meta AI
