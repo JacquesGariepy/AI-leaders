@@ -75,7 +75,7 @@
 - **Entreprise**: Cohere AI
 - **Rôle**: CEO et Co-fondateur
 - **Spécialité**: Co-inventeur du Transformer, LLMs
-- **LinkedIn**: [Aidan Gomez](https://www.linkedin.com/in/aidan-gomez-529b6911b/)
+- **LinkedIn**: [Aidan Gomez](https://www.linkedin.com/in/aidangomez)
 - **GitHub**: [aidangomez](https://github.com/aidangomez)
 - **Twitter**: [@AidanGomez](https://twitter.com/AidanGomez)
 
