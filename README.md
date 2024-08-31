@@ -67,7 +67,7 @@
 - **Entreprise**: Google DeepMind
 - **Rôle**: Chercheur principal
 - **Spécialité**: Transformer, Attention Mechanism, LLMs
-- **LinkedIn**: [Oriol Vinyals](https://www.linkedin.com/in/oriol-vinyals-0b351b34/)
+- **LinkedIn**: [Oriol Vinyals](https://www.linkedin.com/in/oriol-vinyals-00b3366)
 - **GitHub**: N/A
 - **Twitter**: N/A
 
