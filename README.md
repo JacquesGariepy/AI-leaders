@@ -1,12 +1,13 @@
-## 1. Sam Altman
+## Sam Altman
 - **Entreprise**: OpenAI
 - **Rôle**: CEO
 - **Spécialité**: Supervision des développements majeurs de l'IA, y compris GPT-3, GPT-4, et ChatGPT
 - **LinkedIn**: N/A
 - **GitHub**: N/A
 - **Twitter**: [@sama](https://twitter.com/sama)
+- https://blog.samaltman.com/
 
-## 2. Ilya Sutskever
+## Ilya Sutskever
 - **Entreprise**: OpenAI
 - **Rôle**: Co-fondateur et Scientifique en chef
 - **Spécialité**: Développement des modèles GPT, alignement des IA
@@ -15,7 +16,7 @@
 - **Twitter**: [@ilyasut](https://twitter.com/ilyasut)
 - **Google Scolar** : https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en
 
-## 3. Demis Hassabis
+## Demis Hassabis
 - **Entreprise**: Google DeepMind
 - **Rôle**: CEO et Co-fondateur
 - **Spécialité**: AlphaGo, AlphaFold, IA générale
@@ -23,7 +24,8 @@
 - **GitHub**: N/A
 - **Twitter**: [@demishassabis](https://twitter.com/demishassabis)
 
-## 4. Yann LeCun
+
+## Yann LeCun
 - **Entreprise**: Meta AI
 - **Rôle**: Chief AI Scientist
 - **Spécialité**: Réseaux de neurones convolutifs, Deep Learning
@@ -31,7 +33,7 @@
 - **GitHub**: [ylecun](https://github.com/ylecun)
 - **Twitter**: [@ylecun](https://twitter.com/ylecun)
 
-## 5. Geoffrey Hinton
+## Geoffrey Hinton
 - **Entreprise**: Google / University of Toronto
 - **Rôle**: Chercheur émérite
 - **Spécialité**: Deep Learning, réseaux de neurones, IA générale
@@ -39,7 +41,7 @@
 - **GitHub**: [geoffhinton](https://github.com/geoffhinton)
 - **Twitter**: [@geoffreyhinton](https://twitter.com/geoffreyhinton)
 
-## 6. Andrew Ng
+## Andrew Ng
 - **Entreprise**: Landing AI / Coursera
 - **Rôle**: CEO, Co-fondateur
 - **Spécialité**: Machine Learning, éducation en IA, IA industrielle
@@ -47,7 +49,7 @@
 - **GitHub**: [andrewng](https://github.com/andrewyng)
 - **Twitter**: [@AndrewYNg](https://twitter.com/AndrewYNg)
 
-## 7. Greg Brockman
+## 7.Greg Brockman
 - **Entreprise**: OpenAI
 - **Rôle**: Président et Co-fondateur
 - **Spécialité**: Développement de GPT, stratégie IA
