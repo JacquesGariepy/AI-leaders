@@ -44,7 +44,7 @@
 - **Rôle**: CEO, Co-fondateur
 - **Spécialité**: Machine Learning, éducation en IA, IA industrielle
 - **LinkedIn**: [Andrew Ng](https://www.linkedin.com/in/andrewyng/)
-- **GitHub**: [andrewng](https://github.com/andrewng)
+- **GitHub**: [andrewng](https://github.com/andrewyng)
 - **Twitter**: [@AndrewYNg](https://twitter.com/AndrewYNg)
 
 ## 7. Greg Brockman
