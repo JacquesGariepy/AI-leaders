@@ -44,9 +44,8 @@
 - **GitHub**: [geoffhinton](https://github.com/geoffhinton)
 - **Twitter**: [@geoffreyhinton](https://twitter.com/geoffreyhinton)
 
-## Andrew Ng
+## Andrew Ng : Co-fondateur de Coursera et pionnier dans le domaine du deep learning, il a également dirigé des projets d'IA chez Google Brain.
 - **Entreprise**: Landing AI / Coursera
-- Co-fondateur de Coursera et pionnier dans le domaine du deep learning, il a également dirigé des projets d'IA chez Google Brain.
 - **Rôle**: CEO, Co-fondateur
 - **Spécialité**: Machine Learning, éducation en IA, IA industrielle
 - **LinkedIn**: [Andrew Ng](https://www.linkedin.com/in/andrewyng/)
