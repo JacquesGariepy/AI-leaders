@@ -7,6 +7,10 @@
 - **Twitter**: [@sama](https://twitter.com/sama)
 - https://blog.samaltman.com/
 
+**Andrej Karpathy** : Ancien ingénieur en chef chez Tesla, spécialiste en vision par ordinateur et apprentissage profond, il a également travaillé sur des modèles de langage chez OpenAI.
+- LinkedIn : [Andrej Karpathy](https://www.linkedin.com/in/karpathy/)
+- GitHub : [karpathy](https://github.com/karpathy)
+
 ## Ilya Sutskever
 - **Entreprise**: OpenAI
 - **Rôle**: Co-fondateur et Scientifique en chef
@@ -43,6 +47,7 @@
 
 ## Andrew Ng
 - **Entreprise**: Landing AI / Coursera
+- Co-fondateur de Coursera et pionnier dans le domaine du deep learning, il a également dirigé des projets d'IA chez Google Brain.
 - **Rôle**: CEO, Co-fondateur
 - **Spécialité**: Machine Learning, éducation en IA, IA industrielle
 - **LinkedIn**: [Andrew Ng](https://www.linkedin.com/in/andrewyng/)
@@ -707,6 +712,10 @@
 - **LinkedIn**: [Abhishek Thakur](https://www.linkedin.com/in/abhishek-thakur-823b535a/)
 - **GitHub**: [abhi1thakur](https://github.com/abhi1thakur)
 - **Twitter**: [@abhi1thakur](https://twitter.com/abhi1thakur)
+
+## Andriy Burkov
+- **LinkedIn**: [Andriy Burkov]([https://www.linkedin.com/in/abhishek-thakur-823b535a/](https://www.linkedin.com/in/andriyburkov/))
+- https://www.themlbook.com/
 
 ## 89. Jacques Gariépy
 - **Entreprise**: Consultant AI
