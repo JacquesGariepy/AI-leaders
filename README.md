@@ -59,7 +59,7 @@
 - **Entreprise**: NVIDIA
 - **Rôle**: CEO et Co-fondateur
 - **Spécialité**: Accélération GPU, Deep Learning, IA matérielle
-- **LinkedIn**: [Jensen Huang](https://www.linkedin.com/in/jensenhuang/)
+- **LinkedIn**: [Jensen Huang](https://www.linkedin.com/in/jenhsunhuang)
 - **GitHub**: N/A
 - **Twitter**: N/A
 
