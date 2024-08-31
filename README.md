@@ -2,7 +2,7 @@
 - **Entreprise**: OpenAI
 - **Rôle**: CEO
 - **Spécialité**: Supervision des développements majeurs de l'IA, y compris GPT-3, GPT-4, et ChatGPT
-- **LinkedIn**: [Sam Altman](https://www.linkedin.com/in/sama/)
+- **LinkedIn**: N/A
 - **GitHub**: N/A
 - **Twitter**: [@sama](https://twitter.com/sama)
 
