@@ -13,7 +13,7 @@
 - **LinkedIn**: [Ilya Sutskever](https://www.linkedin.com/in/ilya-sutskever/)
 - **GitHub**: [ilyasu](https://github.com/ilyasu)
 - **Twitter**: [@ilyasut](https://twitter.com/ilyasut)
-- **Google Scolar** : [https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en]
+- **Google Scolar** : https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en
 
 ## 3. Demis Hassabis
 - **Entreprise**: Google DeepMind
