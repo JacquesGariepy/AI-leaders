@@ -132,7 +132,7 @@
 - **Rôle**: CEO, ancien Chief Scientist chez Salesforce
 - **Spécialité**: NLP, Deep Learning, IA appliquée
 - **LinkedIn**: [Richard Socher](https://www.linkedin.com/in/richardsocher/)
-- **GitHub**: [RichardSocher](https://github.com/RichardSocher)
+- **GitHub**: 
 - **Twitter**: [@RichardSocher](https://twitter.com/RichardSocher)
 
 ## 18. Yann Dauphin
