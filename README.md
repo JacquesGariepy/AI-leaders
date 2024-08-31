@@ -123,7 +123,7 @@
 - **Entreprise**: AWS AI
 - **Rôle**: Directeur scientifique
 - **Spécialité**: Machine Learning à grande échelle, plateformes ML
-- **LinkedIn**: [Alex Smola](https://www.linkedin.com/in/alexander-smola-73b32b4/)
+- **LinkedIn**: [Alex Smola]([https://www.linkedin.com/in/smola)
 - **GitHub**: [alexsmola](https://github.com/alexsmola)
 - **Twitter**: [@alex_smola](https://twitter.com/alex_smola)
 
