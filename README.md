@@ -796,6 +796,6 @@
 - **Entreprise**: Consuktsnt AI
 - **Rôle**: Ingénieur informatique, Développeur et prompt engineer
 - **Spécialité**: IA, LLMs, développement, Deeplearning
-- **LinkedIn**: JacquesGariepy
-- **GitHub**: [jackboy70](https://github.com/jackboy70)
+- **LinkedIn**: [JacquesGariepy](https:)](https://www.linkedin.com/in/jacquesgariepy)
+- **GitHub**: [Jacques Gariépy](https://github.com/JacquesGariepy)
 - **Twitter**: [@JacquesGariepy]https://twitter.com/jacquesgariepy)
