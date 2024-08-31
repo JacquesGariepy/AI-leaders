@@ -1,186 +1,801 @@
-# AI-leaders
+# Liste des Experts en GenAI, AI, Machine Learning, et LLMs
 
-# Liste des Experts en Deep Learning, LLMs, et Prompt Engineering
+## 1. Sam Altman
+- **Entreprise**: OpenAI
+- **Rôle**: CEO
+- **Spécialité**: Supervision des développements majeurs de l'IA, y compris GPT-3, GPT-4, et ChatGPT
+- **LinkedIn**: [Sam Altman](https://www.linkedin.com/in/sama/)
+- **GitHub**: N/A
+- **Twitter**: [@sama](https://twitter.com/sama)
 
-## Experts en Deep Learning
+## 2. Ilya Sutskever
+- **Entreprise**: OpenAI
+- **Rôle**: Co-fondateur et Scientifique en chef
+- **Spécialité**: Développement des modèles GPT, alignement des IA
+- **LinkedIn**: [Ilya Sutskever](https://www.linkedin.com/in/ilya-sutskever/)
+- **GitHub**: [ilyasu](https://github.com/ilyasu)
+- **Twitter**: [@ilyasut](https://twitter.com/ilyasut)
 
-1. **Andrew Ng** : Co-fondateur de Coursera et pionnier dans le domaine du deep learning, il a également dirigé des projets d'IA chez Google Brain.
-   - LinkedIn : [Andrew Ng](https://www.linkedin.com/in/andrewyng/)
-   - GitHub : [andrewng](https://github.com/andrewng)
+## 3. Demis Hassabis
+- **Entreprise**: Google DeepMind
+- **Rôle**: CEO et Co-fondateur
+- **Spécialité**: AlphaGo, AlphaFold, IA générale
+- **LinkedIn**: [Demis Hassabis](https://www.linkedin.com/in/demishassabis/)
+- **GitHub**: N/A
+- **Twitter**: [@demishassabis](https://twitter.com/demishassabis)
 
-2. **Andrej Karpathy** : Ancien ingénieur en chef chez Tesla, spécialiste en vision par ordinateur et apprentissage profond, il a également travaillé sur des modèles de langage chez OpenAI.
-   - LinkedIn : [Andrej Karpathy](https://www.linkedin.com/in/karpathy/)
-   - GitHub : [karpathy](https://github.com/karpathy)
+## 4. Yann LeCun
+- **Entreprise**: Meta AI
+- **Rôle**: Directeur de l'IA
+- **Spécialité**: Réseaux de neurones convolutifs, Deep Learning
+- **LinkedIn**: [Yann LeCun](https://www.linkedin.com/in/yann-lecun-82540a1/)
+- **GitHub**: [ylecun](https://github.com/ylecun)
+- **Twitter**: [@ylecun](https://twitter.com/ylecun)
 
-3. **Jeff Dean** : Responsable de Google AI et co-fondateur de Google Brain, il est l'un des leaders dans le développement de l'intelligence artificielle et du machine learning à grande échelle.
-   - LinkedIn : [Jeff Dean](https://www.linkedin.com/in/jeffdean/)
-   - GitHub : N/A
+## 5. Geoffrey Hinton
+- **Entreprise**: Google / University of Toronto
+- **Rôle**: Chercheur émérite
+- **Spécialité**: Deep Learning, réseaux de neurones, IA générale
+- **LinkedIn**: N/A
+- **GitHub**: [geoffhinton](https://github.com/geoffhinton)
+- **Twitter**: [@geoffreyhinton](https://twitter.com/geoffreyhinton)
 
-4. **Ilya Sutskever** : Co-fondateur et scientifique en chef chez OpenAI, il a contribué de manière significative aux modèles de deep learning, notamment GPT.
-   - LinkedIn : [Ilya Sutskever](https://www.linkedin.com/in/ilya-sutskever/)
-   - GitHub : [ilyasu](https://github.com/ilyasu)
+## 6. Andrew Ng
+- **Entreprise**: Landing AI / Coursera
+- **Rôle**: CEO, Co-fondateur
+- **Spécialité**: Machine Learning, éducation en IA, IA industrielle
+- **LinkedIn**: [Andrew Ng](https://www.linkedin.com/in/andrewyng/)
+- **GitHub**: [andrewng](https://github.com/andrewng)
+- **Twitter**: [@AndrewYNg](https://twitter.com/AndrewYNg)
 
-5. **Yann LeCun** : Pionnier des réseaux de neurones convolutifs et directeur de l'IA chez Meta, il est l'un des fondateurs du deep learning moderne.
-   - LinkedIn : [Yann LeCun](https://www.linkedin.com/in/yann-lecun-82540a1/)
-   - GitHub : [ylecun](https://github.com/ylecun)
+## 7. Greg Brockman
+- **Entreprise**: OpenAI
+- **Rôle**: Président et Co-fondateur
+- **Spécialité**: Développement de GPT, stratégie IA
+- **LinkedIn**: [Greg Brockman](https://www.linkedin.com/in/gregbrockman/)
+- **GitHub**: [gdb](https://github.com/gdb)
+- **Twitter**: [@gdb](https://twitter.com/gdb)
 
-6. **Geoffrey Hinton** : Connu comme le "parrain du deep learning", il a contribué au développement des réseaux de neurones profonds et a reçu le Prix Turing pour ses travaux révolutionnaires.
-   - LinkedIn : N/A
-   - GitHub : [geoffhinton](https://github.com/geoffhinton)
+## 8. Jensen Huang
+- **Entreprise**: NVIDIA
+- **Rôle**: CEO et Co-fondateur
+- **Spécialité**: Accélération GPU, Deep Learning, IA matérielle
+- **LinkedIn**: [Jensen Huang](https://www.linkedin.com/in/jensenhuang/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-7. **Yoshua Bengio** : Lauréat du Prix Turing, il a apporté des contributions majeures aux architectures de réseaux de neurones et est un leader de la recherche en IA au Canada.
-   - LinkedIn : [Yoshua Bengio](https://www.linkedin.com/in/yoshua-bengio-6964b25a/)
-   - GitHub : [yoshuaBengio](https://github.com/yoshuaBengio)
+## 9. Oriol Vinyals
+- **Entreprise**: Google DeepMind
+- **Rôle**: Chercheur principal
+- **Spécialité**: Transformer, Attention Mechanism, LLMs
+- **LinkedIn**: [Oriol Vinyals](https://www.linkedin.com/in/oriol-vinyals-0b351b34/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-8. **Fei-Fei Li** : Experte en vision par ordinateur et professeure à Stanford, elle a dirigé le projet ImageNet, qui a été crucial pour les avancées en reconnaissance d'images.
-   - LinkedIn : [Fei-Fei Li](https://www.linkedin.com/in/feifei-li-6610a029/)
-   - GitHub : N/A
+## 10. Aidan Gomez
+- **Entreprise**: Cohere AI
+- **Rôle**: CEO et Co-fondateur
+- **Spécialité**: Co-inventeur du Transformer, LLMs
+- **LinkedIn**: [Aidan Gomez](https://www.linkedin.com/in/aidan-gomez-529b6911b/)
+- **GitHub**: [aidangomez](https://github.com/aidangomez)
+- **Twitter**: [@AidanGomez](https://twitter.com/AidanGomez)
 
-9. **Ian Goodfellow** : Inventeur des réseaux antagonistes génératifs (GANs), il a révolutionné la génération d'images et d'autres données synthétiques en IA.
-   - LinkedIn : [Ian Goodfellow](https://www.linkedin.com/in/ian-goodfellow-859b661b/)
-   - GitHub : [goodfeli](https://github.com/goodfeli)
+## 11. John Schulman
+- **Entreprise**: OpenAI
+- **Rôle**: Co-fondateur
+- **Spécialité**: Reinforcement Learning, Proximal Policy Optimization (PPO)
+- **LinkedIn**: [John Schulman](https://www.linkedin.com/in/john-schulman-5b03923b/)
+- **GitHub**: [joschu](https://github.com/joschu)
+- **Twitter**: N/A
 
-10. **Soumith Chintala** : Co-créateur de PyTorch, il a facilité le développement de nombreux modèles de deep learning de pointe grâce à cette bibliothèque open-source.
-    - LinkedIn : [Soumith Chintala](https://www.linkedin.com/in/soumith/)
-    - GitHub : [soumith](https://github.com/soumith)
+## 12. David Silver
+- **Entreprise**: Google DeepMind
+- **Rôle**: Chercheur principal
+- **Spécialité**: Reinforcement Learning, AlphaGo
+- **LinkedIn**: [David Silver](https://www.linkedin.com/in/david-silver-39a68037/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-11. **Sebastian Raschka** : Auteur du livre "Python Machine Learning" et expert en deep learning, il partage des ressources pédagogiques de haute qualité.
-    - LinkedIn : [Sebastian Raschka](https://www.linkedin.com/in/sebastianraschka/)
-    - GitHub : [rasbt](https://github.com/rasbt)
+## 13. Chris Olah
+- **Entreprise**: Anthropic AI / OpenAI (anciennement)
+- **Rôle**: Chercheur principal
+- **Spécialité**: Interprétabilité des réseaux de neurones, pédagogie IA
+- **LinkedIn**: [Chris Olah](https://www.linkedin.com/in/chris-olah-96357b7a/)
+- **GitHub**: [colah](https://github.com/colah)
+- **Twitter**: [@ch402](https://twitter.com/ch402)
 
-12. **François Chollet** : Créateur de Keras, une bibliothèque open-source de deep learning, et auteur du livre "Deep Learning with Python".
-    - LinkedIn : [François Chollet](https://www.linkedin.com/in/fchollet/)
-    - GitHub : [fchollet](https://github.com/fchollet)
+## 14. Tom B. Brown
+- **Entreprise**: Anthropic AI / OpenAI (anciennement)
+- **Rôle**: Chercheur principal
+- **Spécialité**: Développement de GPT-3
+- **LinkedIn**: N/A
+- **GitHub**: [tommyb](https://github.com/tommyb)
+- **Twitter**: N/A
 
-13. **Hugo Larochelle** : Chercheur en IA chez Google Brain, il est également un contributeur important à la recherche en apprentissage profond.
-    - LinkedIn : [Hugo Larochelle](https://www.linkedin.com/in/hugolarochelle/)
-    - GitHub : [larochelle](https://github.com/larochelle)
+## 15. Clément Delangue
+- **Entreprise**: Hugging Face
+- **Rôle**: CEO et Co-fondateur
+- **Spécialité**: Modèles Transformers, démocratisation de l'IA
+- **LinkedIn**: [Clément Delangue](https://www.linkedin.com/in/clementdelangue/)
+- **GitHub**: [clementdelangue](https://github.com/clementdelangue)
+- **Twitter**: [@ClementDelangue](https://twitter.com/ClementDelangue)
 
-## Experts en LLM (Large Language Models)
+## 16. Alex Smola
+- **Entreprise**: AWS AI
+- **Rôle**: Directeur scientifique
+- **Spécialité**: Machine Learning à grande échelle, plateformes ML
+- **LinkedIn**: [Alex Smola](https://www.linkedin.com/in/alexander-smola-73b32b4/)
+- **GitHub**: [alexsmola](https://github.com/alexsmola)
+- **Twitter**: [@alex_smola](https://twitter.com/alex_smola)
 
-1. **Alec Radford** : Connu pour son travail sur les modèles GPT chez OpenAI, il est l'un des pionniers dans le développement des modèles de langage de grande taille.
-   - LinkedIn : [Alec Radford](https://www.linkedin.com/in/alec-radford-28235810b/)
-   - GitHub : [AlecRadford](https://github.com/AlecRadford)
+## 17. Richard Socher
+- **Entreprise**: you.com / Salesforce AI (anciennement)
+- **Rôle**: CEO, ancien Chief Scientist chez Salesforce
+- **Spécialité**: NLP, Deep Learning, IA appliquée
+- **LinkedIn**: [Richard Socher](https://www.linkedin.com/in/richardsocher/)
+- **GitHub**: [RichardSocher](https://github.com/RichardSocher)
+- **Twitter**: [@RichardSocher](https://twitter.com/RichardSocher)
 
-2. **Tom B. Brown** : Un des principaux contributeurs au développement de GPT-3 chez OpenAI, il a joué un rôle clé dans l'entraînement des modèles de langage de grande taille.
-   - LinkedIn : N/A
-   - GitHub : [tommyb](https://github.com/tommyb)
+## 18. Yann Dauphin
+- **Entreprise**: xAI / Grok (by xAI)
+- **Rôle**: Chercheur principal
+- **Spécialité**: LLMs, Alignement de l'IA
+- **LinkedIn**: [Yann Dauphin](https://www.linkedin.com/in/yann-dauphin-6106a2b/)
+- **GitHub**: [cybertronai](https://github.com/cybertronai)
+- **Twitter**: N/A
 
-3. **Sam Altman** : CEO d'OpenAI, il a supervisé le développement des grands modèles de langage, y compris GPT-3 et ChatGPT.
-   - LinkedIn : [Sam Altman](https://www.linkedin.com/in/sama/)
-   - GitHub : N/A
+## 19. Koray Kavukcuoglu
+- **Entreprise**: Google DeepMind
+- **Rôle**: Directeur de la recherche en apprentissage
+- **Spécialité**: Innovation en architecture de réseau neuronal, Reinforcement Learning
+- **LinkedIn**: [Koray Kavukcuoglu](https://www.linkedin.com/in/koray-kavukcuoglu/)
+- **GitHub**: [koraykv](https://github.com/koraykv)
+- **Twitter**: [@KorayK](https://twitter.com/KorayK)
 
-4. **Jack Clark** : Co-fondateur d'Anthropic, une entreprise spécialisée dans la recherche en IA, avec un focus sur le développement éthique des LLMs.
-   - LinkedIn : [Jack Clark](https://www.linkedin.com/in/jack-clark/)
-   - GitHub : N/A
+## 20. William Dally
+- **Entreprise**: NVIDIA
+- **Rôle**: Chief Scientist
+- **Spécialité**: Accélération matérielle pour le deep learning, LLMs
+- **LinkedIn**: [William Dally](https://www.linkedin.com/in/william-dally/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-5. **Noam Shazeer** : Co-inventeur du Transformer, l'architecture derrière les modèles de langage modernes tels que GPT-3. Il a également cofondé Character.AI, une entreprise de chatbots basés sur des LLMs.
-   - LinkedIn : [Noam Shazeer](https://www.linkedin.com/in/noam-shazeer-52b920/)
-   - GitHub : [noamshazeer](https://github.com/noamshazeer)
+## 21. Sanja Fidler
+- **Entreprise**: NVIDIA
+- **Rôle**: Directrice de la recherche en IA
+- **Spécialité**: Vision par ordinateur, Deep Learning, LLMs
+- **LinkedIn**: [Sanja Fidler](https://www.linkedin.com/in/sanja-fidler/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-6. **Myle Ott** : Chercheur chez Meta AI (anciennement Facebook AI Research), il a contribué au développement de modèles de langage comme RoBERTa.
-   - LinkedIn : [Myle Ott](https://www.linkedin.com/in/myle-ott-21427442/)
-   - GitHub : [myloot](https://github.com/myloot)
+## 22. Greg Brockman
+- **Entreprise**: OpenAI
+- **Rôle**: Président et Co-fondateur
+- **Spécialité**: Développement de GPT, stratégie IA
+- **LinkedIn**: [Greg Brockman](https://www.linkedin.com/in/gregbrockman/)
+- **GitHub**: [gdb](https://github.com/gdb)
+- **Twitter**: [@gdb](https://twitter.com/gdb)
 
-7. **Colin Raffel** : Connu pour son travail sur T5 (Text-To-Text Transfer Transformer) chez Google Research, il a contribué à établir de nouvelles normes pour le traitement du langage naturel.
-   - LinkedIn : [Colin Raffel](https://www.linkedin.com/in/colinraffel/)
-   - GitHub : [colinraffel](https://github.com/colinraffel)
+## 23. Joelle Pineau
+- **Entreprise**: Meta AI
+- **Rôle**: Directrice de l'IA
+- **Spécialité**: Apprentissage par renforcement, robotique, NLP
+- **LinkedIn**: [Joelle Pineau](https://www.linkedin.com/in/joelle-pineau-26858b5/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-8. **Dario Amodei** : CEO et co-fondateur d'Anthropic, ancien chercheur principal chez OpenAI, il a contribué au développement de modèles de langage de grande taille.
-   - LinkedIn : [Dario Amodei](https://www.linkedin.com/in/dario-amodei-0a93938b/)
-   - GitHub : N/A
+## 24. Aidan Gomez
+- **Entreprise**: Cohere AI
+- **Rôle**: CEO et Co-fondateur
+- **Spécialité**: Co-inventeur du Transformer, LLMs
+- **LinkedIn**: [Aidan Gomez](https://www.linkedin.com/in/aidan-gomez-529b6911b/)
+- **GitHub**: [aidangomez](https://github.com/aidangomez)
+- **Twitter**: [@AidanGomez](https://twitter.com/AidanGomez)
 
-9. **Angela Fan** : Chercheuse chez Meta AI, elle a travaillé sur des modèles de langage comme XLM et a exploré les approches multilingues pour le traitement du langage naturel.
-   - LinkedIn : [Angela Fan](https://www.linkedin.com/in/angela-fan-6223a8115/)
-   - GitHub : [angelafan](https://github.com/angelafan)
+## 25. Thomas Wolf
+- **Entreprise**: Hugging Face
+- **Rôle**: Chief Science Officer
+- **Spécialité**: Modèles Transformers, NLP, Open Source AI
+- **LinkedIn**: [Thomas Wolf](https://www.linkedin.com/in/thomas-wolf-a98170/)
+- **GitHub**: [thomwolf](https://github.com/thomwolf)
+- **Twitter**: [@Thom_Wolf](https://twitter.com/Thom_Wolf)
 
-10. **Ethan Perez** : Chercheur en IA, il a contribué à des modèles comme Reformer et aux efforts pour rendre les LLMs plus efficaces et interprétables.
-    - LinkedIn : [Ethan Perez](https://www.linkedin.com/in/ethan-perez-764b88140/)
-    - GitHub : [ethanjperez](https://github.com/ethanjperez)
+## 26. Clem Delangue
+- **Entreprise**: Hugging Face
+- **Rôle**: CEO
+- **Spécialité**: Plateformes d’IA, Communautés Open Source, LLMs
+- **LinkedIn**: [Clem Delangue](https://www.linkedin.com/in/clementdelangue/)
+- **GitHub**: [clementdelangue](https://github.com/clementdelangue)
+- **Twitter**: [@ClementDelangue](https://twitter.com/ClementDelangue)
 
-11. **William Fedus** : Chercheur chez Google Brain, il a travaillé sur des modèles de langage comme GShard et exploré les techniques d'entraînement massivement parallèles.
-    - LinkedIn : [William Fedus](https://www.linkedin.com/in/williamfedus/)
-    - GitHub : [williamfedus](https://github.com/williamfedus)
+## 27. Jared Kaplan
+- **Entreprise**: Anthropic AI
+- **Rôle**: Co-fondateur et Directeur Scientifique
+- **Spécialité**: Physique théorique, Machine Learning, Alignement des IA
+- **LinkedIn**: [Jared Kaplan](https://www.linkedin.com/in/jared-kaplan-603b0a5/)
+- **GitHub**: [jaredkaplan](https://github.com/jaredkaplan)
+- **Twitter**: [@jaredkaplan](https://twitter.com/jaredkaplan)
 
-12. **Jeremy Howard** : Co-fondateur de Fast.ai, il a été un pionnier dans la démocratisation de l'IA et de l'apprentissage profond. Il a également travaillé sur l'optimisation des grands modèles de langage pour les rendre plus accessibles.
-    - LinkedIn : [Jeremy Howard](https://www.linkedin.com/in/jeremy-a-howard-2b799b/)
-    - GitHub : [jeremyphoward](https://github.com/jeremyphoward)
+## 28. Richard Socher
+- **Entreprise**: you.com / Salesforce AI (anciennement)
+- **Rôle**: CEO, ancien Chief Scientist chez Salesforce
+- **Spécialité**: NLP, Deep Learning, IA appliquée
+- **LinkedIn**: [Richard Socher](https://www.linkedin.com/in/richardsocher/)
+- **GitHub**: [RichardSocher](https://github.com/RichardSocher)
+- **Twitter**: [@RichardSocher](https://twitter.com/RichardSocher)
 
-13. **Lukas Biewald** : CEO et co-fondateur de Weights & Biases, une plateforme populaire utilisée pour le suivi et la gestion des expériences en deep learning. Son entreprise et ses travaux contribuent au développement et à l'optimisation des LLMs.
-    - LinkedIn : [Lukas Biewald](https://www.linkedin.com/in/lukasbiewald/)
-    - GitHub : [l2k](https://github.com/l2k)
+## 29. Dario Amodei
+- **Entreprise**: Anthropic AI (anciennement OpenAI)
+- **Rôle**: CEO et Co-fondateur
+- **Spécialité**: Sécurité des IA, Alignement des IA, LLMs
+- **LinkedIn**: [Dario Amodei](https://www.linkedin.com/in/dario-amodei-0a93938b/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-14. **Michael Carbin** : Professeur au MIT et chercheur dans le domaine des systèmes de machine learning, il a exploré des méthodes pour optimiser et rendre plus fiables les grands modèles de langage.
-    - LinkedIn : [Michael Carbin](https://www.linkedin.com/in/michael-carbin/)
-    - GitHub : [mcarbin](https://github.com/mcarbin)
+## 30. Daniela Amodei
+- **Entreprise**: Anthropic AI
+- **Rôle**: Co-fondatrice et Présidente
+- **Spécialité**: Stratégie d’entreprise en IA, Alignement des IA
+- **LinkedIn**: [Daniela Amodei](https://www.linkedin.com/in/daniela-amodei-3708273a/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-15. **Jacob Devlin** : Un des créateurs de BERT chez Google AI, il a contribué de manière significative à l'évolution des modèles de langage pré-entraînés.
-    - LinkedIn : [Jacob Devlin](https://www.linkedin.com/in/jacob-devlin-0b37757/)
-    - GitHub : N/A
+## 31. Scott Gray
+- **Entreprise**: OpenAI (anciennement)
+- **Rôle**: Co-fondateur
+- **Spécialité**: Infrastructure de calcul pour l'entraînement des LLMs
+- **LinkedIn**: [Scott Gray](https://www.linkedin.com/in/scott-gray-434693a6/)
+- **GitHub**: [scottgray](https://github.com/scottgray)
+- **Twitter**: N/A
 
-16. **Nikita Kitaev** : Chercheur en intelligence artificielle chez Google Brain, il a travaillé sur des architectures de modèles de langage innovantes, comme le modèle Reformer, qui optimise la mémoire et la vitesse d'entraînement.
-    - LinkedIn : [Nikita Kitaev](https://www.linkedin.com/in/nikitakitaev/)
-    - GitHub : [nikitakit](https://github.com/nikitakit)
+## 32. Sanja Fidler
+- **Entreprise**: NVIDIA
+- **Rôle**: Directrice de la recherche en IA
+- **Spécialité**: Vision par ordinateur, Deep Learning, LLMs
+- **LinkedIn**: [Sanja Fidler](https://www.linkedin.com/in/sanja-fidler/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-17. **Demis Hassabis** : CEO et co-fondateur de DeepMind, bien que plus focalisé sur l'intelligence artificielle en général, ses travaux ont influencé le développement des grands modèles de langage grâce à des innovations comme AlphaFold.
-    - LinkedIn : [Demis Hassabis](https://www.linkedin.com/in/demishassabis/)
-    - GitHub : N/A
+## 33. William Fedus
+- **Entreprise**: Google Brain
+- **Rôle**: Chercheur principal
+- **Spécialité**: Modèles de langage comme GShard, entraînement massivement parallèle
+- **LinkedIn**: [William Fedus](https://www.linkedin.com/in/williamfedus/)
+- **GitHub**: [williamfedus](https://github.com/williamfedus)
+- **Twitter**: N/A
 
-## Experts en Prompt Engineering
+## 34. Julien Chaumond
+- **Entreprise**: Hugging Face
+- **Rôle**: CTO et Co-fondateur
+- **Spécialité**: NLP, Transformers, LLMs
+- **LinkedIn**: [Julien Chaumond](https://www.linkedin.com/in/julienchaumond/)
+- **GitHub**: [julien-c](https://github.com/julien-c)
+- **Twitter**: [@julien_c](https://twitter.com/julien_c)
 
-1. **Riley Goodside** : Connu pour son expertise en prompt engineering, il partage régulièrement des astuces et des techniques pour améliorer l'interaction avec les modèles de langage. Il est souvent cité pour ses expérimentations créatives avec les prompts pour obtenir des résultats optimisés.
-   - LinkedIn : [Riley Goodside](https://www.linkedin.com/in/rileygoodside/)
-   - GitHub : [rileygoodside](https://github.com/rileygoodside)
+## 35. Anima Anandkumar
+- **Entreprise**: NVIDIA / Caltech
+- **Rôle**: Chercheuse principale, Professeure
+- **Spécialité**: Deep Learning, systèmes physiques complexes
+- **LinkedIn**: [Anima Anandkumar](https://www.linkedin.com/in/animaanandkumar/)
+- **GitHub**: [Anima-Anandkumar](https://github.com/Anima-Anandkumar)
+- **Twitter**: [@AnimaAnandkumar](https://twitter.com/AnimaAnandkumar)
 
-2. **Gwern Branwen** : Chercheur indépendant qui a exploré en profondeur le potentiel des modèles de langage via l'optimisation des prompts. Il est reconnu pour ses analyses poussées et ses essais visant à maximiser la performance des LLMs.
-   - LinkedIn : N/A
-   - GitHub : [gwern](https://github.com/gwern)
+## 36. Chris Manning
+- **Entreprise**: Stanford University
+- **Rôle**: Professeur
+- **Spécialité**: NLP, Deep Learning, Syntaxe
+- **LinkedIn**: [Chris Manning](https://www.linkedin.com/in/cgpmanning/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-3. **Margaret Mitchell** : Co-fondatrice de l'équipe d'éthique de l'IA chez Google, elle a aussi travaillé sur l'amélioration des interactions utilisateur-modèle, y compris l'optimisation des prompts pour des réponses plus fiables et éthiques.
-   - LinkedIn : [Margaret Mitchell](https://www.linkedin.com/in/mmitchell-ai/)
-   - GitHub : [mmitchell-ai](https://github.com/mmitchell-ai)
+## 37. Raia Hadsell
+- **Entreprise**: Google DeepMind
+- **Rôle**: Chercheuse senior
+- **Spécialité**: Apprentissage par transfert, Lifelong Learning, IA adaptative
+- **LinkedIn**: [Raia Hadsell](https://www.linkedin.com/in/raia-hadsell-157b4b7/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-4. **Janelle Shane** : Scientifique et auteure, elle explore les comportements des modèles d'IA, souvent en utilisant des prompts créatifs pour révéler des biais ou des comportements inattendus, apportant ainsi une perspective unique au prompt engineering.
-   - LinkedIn : [Janelle Shane](https://www.linkedin.com/in/janelle-shane-6664b645/)
-   - GitHub : [JanelleCShane](https://github.com/JanelleCShane)
+## 38. Alex Smola
+- **Entreprise**: AWS AI
+- **Rôle**: Directeur scientifique
+- **Spécialité**: Machine Learning à grande échelle, plateformes ML
+- **LinkedIn**: [Alex Smola](https://www.linkedin.com/in/alexander-smola-73b32b4/)
+- **GitHub**: [alexsmola](https://github.com/alexsmola)
+- **Twitter**: [@alex_smola](https://twitter.com/alex_smola)
 
-5. **Abhishek Thakur** : Expert en machine learning, il propose des tutoriels et des guides sur l'utilisation efficace des modèles de langage, y compris la conception de prompts pour maximiser la performance des LLMs.
-   - LinkedIn : [Abhishek Thakur](https://www.linkedin.com/in/abhishek-thakur-823b535a/)
-   - GitHub : [abhi1thakur](https://github.com/abhi1thakur)
+## 39. Bryan Catanzaro
+- **Entreprise**: NVIDIA
+- **Rôle**: Vice-président de la recherche appliquée en deep learning
+- **Spécialité**: Accélération GPU, deep learning, GANs, optimisation CUDA pour l'IA
+- **LinkedIn**: [Bryan Catanzaro](https://www.linkedin.com/in/bryancatanzaro/)
+- **GitHub**: [bcatanzaro](https://github.com/bcatanzaro)
+- **Twitter**: [@ctnzr](https://twitter.com/ctnzr)
 
-6. **Reuven Cohen** : Expert dans l'intégration d'IA agentique, il est également actif dans l'optimisation des prompts pour améliorer la coordination et la collaboration entre agents IA pour des systèmes intelligents avancés.
-   - LinkedIn : [Reuven Cohen](https://www.linkedin.com/in/reuvencohen/)
-   - GitHub : [reuvencohen](https://github.com/reuvencohen)
+## 40. Dario Gil
+- **Entreprise**: IBM Research
+- **Rôle**: Directeur de la recherche
+- **Spécialité**: Intelligence artificielle, IBM Watson, technologies d'IA avancées
+- **LinkedIn**: [Dario Gil](https://www.linkedin.com/in/dariogil/)
+- **GitHub**: N/A
+- **Twitter**: [@dario_gil](https://twitter.com/dario_gil)
 
-7. **Simon Willison** : Développeur et expert en données, il a récemment exploré l'usage des prompts pour manipuler et extraire efficacement des informations de grands modèles de langage, en partageant ses trouvailles sur son blog et GitHub.
-   - LinkedIn : [Simon Willison](https://www.linkedin.com/in/simonw/)
-   - GitHub : [simonw](https://github.com/simonw)
+## 41. Ruchir Puri
+- **Entreprise**: IBM Research
+- **Rôle**: Chief Scientist
+- **Spécialité**: Architectures d'IA, deep learning, technologies pour l'industrie
+- **LinkedIn**: [Ruchir Puri](https://www.linkedin.com/in/ruchirpuri/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-8. **Boris Dayma** : Développeur de la populaire application "DALL-E Mini", il a également exploré et partagé des techniques de prompt engineering pour générer des images de qualité à partir de modèles de langage.
-   - LinkedIn : [Boris Dayma](https://www.linkedin.com/in/borisdayma/)
-   - GitHub : [borisdayma](https://github.com/borisdayma)
+## 42. David Cox
+- **Entreprise**: MIT-IBM Watson AI Lab
+- **Rôle**: Directeur de la division
+- **Spécialité**: Neurosciences computationnelles, LLMs, AGI
+- **LinkedIn**: [David Cox](https://www.linkedin.com/in/davidcox/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-9. **Jeremy Howard** : En plus de son expertise en deep learning, il a également exploré l'optimisation des prompts pour maximiser l'efficacité des modèles de langage, notamment dans le cadre de Fast.ai.
-   - LinkedIn : [Jeremy Howard](https://www.linkedin.com/in/jeremy-a-howard-2b799b/)
-   - GitHub : [jeremyphoward](https://github.com/jeremyphoward)
+## 43. Alessandro Curioni
+- **Entreprise**: IBM Research Europe
+- **Rôle**: Vice-président, directeur d'IBM Research Zurich
+- **Spécialité**: Optimisation pour les LLMs, systèmes cognitifs
+- **LinkedIn**: [Alessandro Curioni](https://www.linkedin.com/in/alessandro-curioni-518b443/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-10. **Christina Kim** : Chercheuse en IA chez Hugging Face, elle a exploré l'optimisation des prompts pour améliorer l'équité, l'explicabilité, et la performance des modèles de langage.
-    - LinkedIn : [Christina Kim](https://www.linkedin.com/in/christina-kim-ai/)
-    - GitHub : [cristinaykim](https://github.com/cristinaykim)
+## 44. Mostafa Abdou
+- **Entreprise**: Stability AI
+- **Rôle**: Chercheur principal en IA
+- **Spécialité**: Modèles de diffusion, génération de contenu
+- **LinkedIn**: [Mostafa Abdou](https://www.linkedin.com/in/mostafa-abdou-8673108b/)
+- **GitHub**: [mostafa-abdullah](https://github.com/mostafa-abdullah)
+- **Twitter**: N/A
 
-11. **Minimaxir (Max Woolf)** : Un des premiers à expérimenter avec les prompts GPT-2 et GPT-3 pour générer du contenu créatif, il a partagé ses découvertes sur la meilleure façon d'interagir avec ces modèles.
-    - LinkedIn : [Max Woolf](https://www.linkedin.com/in/minimaxir/)
-    - GitHub : [minimaxir](https://github.com/minimaxir)
+## 45. Lukas Müller
+- **Entreprise**: Stability AI
+- **Rôle**: Ingénieur en IA
+- **Spécialité**: Optimisation des algorithmes, génération d'images
+- **LinkedIn**: [Lukas Müller](https://www.linkedin.com/in/lukas-mueller-b1a991167/)
+- **GitHub**: [lukas-mueller](https://github.com/lukas-mueller)
+- **Twitter**: N/A
 
-12. **Raphaël Millière** : Chercheur en IA et philosophie, il s'est concentré sur la manière dont les modèles de langage interagissent avec les prompts et les implications éthiques de ces interactions.
-    - LinkedIn : [Raphaël Millière](https://www.linkedin.com/in/raphael-milliere/)
-    - GitHub : N/A
+## 46. Jonathan Ross
+- **Entreprise**: Groq
+- **Rôle**: CEO et Co-fondateur
+- **Spécialité**: Conception de processeurs haute performance pour l'IA, TPU (Tensor Processing Unit)
+- **LinkedIn**: [Jonathan Ross](https://www.linkedin.com/in/jonathan-ross-4b16144/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-13. **Julian Togelius** : Professeur à NYU, il a exploré l'utilisation des prompts dans les jeux vidéo pour créer des IA plus adaptatives et engageantes.
-    - LinkedIn : [Julian Togelius](https://www.linkedin.com/in/juliantogelius/)
-    - GitHub : [togelius](https://github.com/togelius)
+## 47. Sean Lie
+- **Entreprise**: Groq
+- **Rôle**: CTO
+- **Spécialité**: Architecture de processeurs pour l'IA, calcul haute performance
+- **LinkedIn**: [Sean Lie](https://www.linkedin.com/in/sean-lie-66a2072/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
-14. **Jason Wei** : Chercheur en IA chez Google, il a travaillé sur la façon dont les prompts peuvent être structurés pour améliorer la performance des LLMs sur une variété de tâches, notamment en ajustant le format des instructions.
-    - LinkedIn : [Jason Wei](https://www.linkedin.com/in/jason-wei-719b57121/)
-    - GitHub : [jasonwei20](https://github.com/jasonwei20)
+## 48. Craig M. Johnson
+- **Entreprise**: Groq
+- **Rôle**: Ingénieur principal en hardware
+- **Spécialité**: Conception de puces pour IA, optimisation de l'architecture matérielle
+- **LinkedIn**: [Craig M. Johnson](https://www.linkedin.com/in/craig-johnson-34b63849/)
+- **GitHub**: N/A
+- **Twitter**: N/A
 
+## 49. Guillaume Lample
+- **Entreprise**: Meta AI
+- **Rôle**: Chercheur principal
+- **Spécialité**: Architecte du modèle LLaMA, modèles open-source alternatifs à GPT
+- **LinkedIn**: [Guillaume Lample](https://www.linkedin.com/in/guillaume-lample-23966974/)
+- **GitHub**: [glample](https://github.com/glample)
+- **Twitter**: [@GuillaumeLample](https://twitter.com/GuillaumeLample)
+
+## 50. Moya Chen
+- **Entreprise**: Meta AI
+- **Rôle**: Chercheuse en IA
+- **Spécialité**: Entraînement de LLaMA, modèles multilingues
+- **LinkedIn**: [Moya Chen](https://www.linkedin.com/in/moyachen/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 51. Armand Joulin
+- **Entreprise**: Meta AI
+- **Rôle**: Chercheur senior
+- **Spécialité**: Développement de LLaMA, efficacité des modèles de langage
+- **LinkedIn**: [Armand Joulin](https://www.linkedin.com/in/armand-joulin-231aa316/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 52. Shane Legg
+- **Entreprise**: Google DeepMind
+- **Rôle**: Co-fondateur
+- **Spécialité**: IA générale, recherche fondamentale en IA
+- **LinkedIn**: [Shane Legg](https://www.linkedin.com/in/shanelegg/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 53. David Ha
+- **Entreprise**: Stability AI
+- **Rôle**: Directeur de la recherche
+- **Spécialité**: Modèles de diffusion, génération d'images, IA créative
+- **LinkedIn**: [David Ha](https://www.linkedin.com/in/david-ha-839a88139/)
+- **GitHub**: [hardmaru](https://github.com/hardmaru)
+- **Twitter**: [@hardmaru](https://twitter.com/hardmaru)
+
+## 54. Hao Fang
+- **Entreprise**: Baidu Research
+- **Rôle**: Chercheur principal
+- **Spécialité**: Vision par ordinateur, traitement du langage naturel, applications industrielles de l'IA
+- **LinkedIn**: [Hao Fang](https://www.linkedin.com/in/haofang1/)
+- **GitHub**: [fanghao](https://github.com/fanghao)
+- **Twitter**: N/A
+
+## 55. Ren Wu
+- **Entreprise**: Baidu Research
+- **Rôle**: Directeur de la recherche en deep learning
+- **Spécialité**: Architectures distribuées, reconnaissance vocale, DeepSpeech
+- **LinkedIn**: [Ren Wu](https://www.linkedin.com/in/ren-wu/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 56. Yanjun Qi
+- **Entreprise**: Baidu Research
+- **Rôle**: Chercheuse principale
+- **Spécialité**: Machine Learning, big data, sécurité en IA
+- **LinkedIn**: [Yanjun Qi](https://www.linkedin.com/in/yanjun-qi-599a22/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 57. Yunhe Wang
+- **Entreprise**: Tencent AI Lab
+- **Rôle**: Chercheur principal
+- **Spécialité**: Optimisation des LLMs, applications de messagerie et de gaming
+- **LinkedIn**: [Yunhe Wang](https://www.linkedin.com/in/yunhewang/)
+- **GitHub**: [yunhewang](https://github.com/yunhewang)
+- **Twitter**: N/A
+
+## 58. Jie Tang
+- **Entreprise**: Tencent AI Lab
+- **Rôle**: Chercheur en chef
+- **Spécialité**: Apprentissage automatique, NLP, systèmes de recommandation
+- **LinkedIn**: [Jie Tang](https://www.linkedin.com/in/jie-tang-75594b22/)
+- **GitHub**: [jietang](https://github.com/jietang)
+- **Twitter**: N/A
+
+## 59. Weinan Zhang
+- **Entreprise**: Tencent AI Lab
+- **Rôle**: Chercheur
+- **Spécialité**: Apprentissage renforcé, systèmes de recommandation, agents conversationnels
+- **LinkedIn**: [Weinan Zhang](https://www.linkedin.com/in/weinan-zhang-1585a915/)
+- **GitHub**: [wnzhang](https://github.com/wnzhang)
+- **Twitter**: N/A
+
+## 60. Swami Sivasubramanian
+- **Entreprise**: Amazon Web Services (AWS) AI
+- **Rôle**: Vice-président
+- **Spécialité**: Services AI/ML, Sagemaker, NLP
+- **LinkedIn**: [Swami Sivasubramanian](https://www.linkedin.com/in/swami-sivasubramanian/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 61. Rahul Pathak
+- **Entreprise**: Amazon Web Services (AWS) AI
+- **Rôle**: Vice-président de la gestion des services AI/ML
+- **Spécialité**: Amazon Comprehend, Lex, plateformes AI/ML
+- **LinkedIn**: [Rahul Pathak](https://www.linkedin.com/in/rahul-pathak/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 62. Alex Smola
+- **Entreprise**: AWS AI
+- **Rôle**: Directeur scientifique
+- **Spécialité**: Machine Learning à grande échelle, plateformes ML
+- **LinkedIn**: [Alex Smola](https://www.linkedin.com/in/alexander-smola-73b32b4/)
+- **GitHub**: [alexsmola](https://github.com/alexsmola)
+- **Twitter**: [@alex_smola](https://twitter.com/alex_smola)
+
+## 63. Andrew Dai
+- **Entreprise**: Google Brain
+- **Rôle**: Chercheur principal
+- **Spécialité**: Développement de modèles de langage, efficacité des LLMs, modèle T5
+- **LinkedIn**: N/A
+- **GitHub**: [andrew-dai](https://github.com/andrew-dai)
+- **Twitter**: N/A
+
+## 64. Quoc V. Le
+- **Entreprise**: Google Brain
+- **Rôle**: Co-fondateur de Google Brain
+- **Spécialité**: Réseaux neuronaux, AutoML, IA générale
+- **LinkedIn**: [Quoc V. Le](https://www.linkedin.com/in/quocle/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 65. Mehdi Mirza
+- **Entreprise**: Google Brain
+- **Rôle**: Chercheur
+- **Spécialité**: Amélioration des architectures GANs, transfert d'apprentissage pour LLMs
+- **LinkedIn**: [Mehdi Mirza](https://www.linkedin.com/in/mehdi-mirza-40086113/)
+- **GitHub**: [memimo](https://github.com/memimo)
+- **Twitter**: N/A
+
+## 66. Colin Raffel
+- **Entreprise**: Google Brain
+- **Rôle**: Chercheur
+- **Spécialité**: T5 (Text-To-Text Transfer Transformer), pratiques d'entraînement des LLMs
+- **LinkedIn**: [Colin Raffel](https://www.linkedin.com/in/colinraffel/)
+- **GitHub**: [colinraffel](https://github.com/colinraffel)
+- **Twitter**: N/A
+
+## 67. Michael Carbin
+- **Entreprise**: MIT / Microsoft Research
+- **Rôle**: Professeur, Chercheur en machine learning
+- **Spécialité**: Systèmes de machine learning, optimisation des LLMs
+- **LinkedIn**: [Michael Carbin](https://www.linkedin.com/in/michael-carbin/)
+- **GitHub**: [mcarbin](https://github.com/mcarbin)
+- **Twitter**: N/A
+
+## 68. Jeff Dean
+- **Entreprise**: Google AI
+- **Rôle**: Responsable de Google AI, co-fondateur de Google Brain
+- **Spécialité**: Développement à grande échelle de l'IA, BERT, systèmes de langage
+- **LinkedIn**: [Jeff Dean](https://www.linkedin.com/in/jeffdean/)
+- **GitHub**: N/A
+- **Twitter**: [@jeffdean](https://twitter.com/jeffdean)
+
+## 69. Scott Gray
+- **Entreprise**: OpenAI (anciennement)
+- **Rôle**: Co-fondateur
+- **Spécialité**: Infrastructure de calcul pour l'entraînement des LLMs
+- **LinkedIn**: [Scott Gray](https://www.linkedin.com/in/scott-gray-434693a6/)
+- **GitHub**: [scottgray](https://github.com/scottgray)
+- **Twitter**: N/A
+
+## 70. Llama Zhang
+- **Entreprise**: Microsoft Research
+- **Rôle**: Chercheur principal en machine learning
+- **Spécialité**: Systèmes d'apprentissage à grande échelle, LLMs
+- **LinkedIn**: [Llama Zhang](https://www.linkedin.com/in/llama-zhang-113719105/)
+- **GitHub**: [llamabot](https://github.com/llamabot)
+- **Twitter**: N/A
+
+## 71. Omar Shaikh
+- **Entreprise**: Microsoft Research
+- **Rôle**: Chercheur
+- **Spécialité**: Optimisation des LLMs, production et intégration avec les systèmes existants
+- **LinkedIn**: [Omar Shaikh](https://www.linkedin.com/in/omar-shaikh/)
+- **GitHub**: [omars](https://github.com/omars)
+- **Twitter**: N/A
+
+## 72. Nicholas Carlini
+- **Entreprise**: Google Brain
+- **Rôle**: Chercheur en IA
+- **Spécialité**: Sécurité des modèles de deep learning, adversarial machine learning
+- **LinkedIn**: N/A
+- **GitHub**: [ncarlini](https://github.com/ncarlini)
+- **Twitter**: N/A
+
+## 73. Chelsea Finn
+- **Entreprise**: Stanford University
+- **Rôle**: Professeur, Chercheuse en robotique et machine learning
+- **Spécialité**: Meta-learning, apprentissage par renforcement, robotique
+- **LinkedIn**: [Chelsea Finn](https://www.linkedin.com/in/chelsea-finn/)
+- **GitHub**: [cbfinn](https://github.com/cbfinn)
+- **Twitter**: [@chelseabfinn](https://twitter.com/chelseabfinn)
+
+## 74. Fei-Fei Li
+- **Entreprise**: Stanford University
+- **Rôle**: Professeure, Directrice de Stanford AI Lab
+- **Spécialité**: Vision par ordinateur, ImageNet, éthique en IA
+- **LinkedIn**: [Fei-Fei Li](https://www.linkedin.com/in/feifei-li-6610a029/)
+- **GitHub**: N/A
+- **Twitter**: [@drfeifei](https://twitter.com/drfeifei)
+
+## 75. Jürgen Schmidhuber
+- **Entreprise**: Dalle Molle Institute for Artificial Intelligence Research (IDSIA)
+- **Rôle**: Co-directeur scientifique
+- **Spécialité**: Réseaux neuronaux, LSTM (Long Short-Term Memory), apprentissage par renforcement
+- **LinkedIn**: [Jürgen Schmidhuber](https://www.linkedin.com/in/juergen-schmidhuber-20b06b36/)
+- **GitHub**: N/A
+- **Twitter**: [@SchmidhuberAI](https://twitter.com/SchmidhuberAI)
+
+## 76. Yoshua Bengio
+- **Entreprise**: Mila (Quebec AI Institute)
+- **Rôle**: Directeur scientifique
+- **Spécialité**: Architectures de réseaux de neurones, deep learning, apprentissage supervisé
+- **LinkedIn**: [Yoshua Bengio](https://www.linkedin.com/in/yoshua-bengio-6964b25a/)
+- **GitHub**: [yoshuaBengio](https://github.com/yoshuaBengio)
+- **Twitter**: [@ylecun](https://twitter.com/ylecun)
+
+## 77. Sebastian Thrun
+- **Entreprise**: Kitty Hawk (anciennement), Udacity
+- **Rôle**: CEO et Co-fondateur de Udacity, ancien Professeur à Stanford
+- **Spécialité**: Robotique, véhicules autonomes, apprentissage machine, éducation en IA
+- **LinkedIn**: [Sebastian Thrun](https://www.linkedin.com/in/sebastianthrun/)
+- **GitHub**: N/A
+- **Twitter**: [@sebastianthrun](https://twitter.com/sebastianthrun)
+
+## 78. Ian Goodfellow
+- **Entreprise**: DeepMind (anciennement), Apple
+- **Rôle**: Directeur de la machine learning chez Apple, Inventeur des GANs
+- **Spécialité**: Réseaux antagonistes génératifs (GANs), apprentissage profond, sécurité des IA
+- **LinkedIn**: [Ian Goodfellow](https://www.linkedin.com/in/ian-goodfellow-859b661b/)
+- **GitHub**: [goodfeli](https://github.com/goodfeli)
+- **Twitter**: [@goodfellow_ian](https://twitter.com/goodfellow_ian)
+
+## 79. Vladimir Vapnik
+- **Entreprise**: Facebook AI Research (FAIR)
+- **Rôle**: Chercheur principal
+- **Spécialité**: Théorie de l'apprentissage statistique, SVM (Support Vector Machines)
+- **LinkedIn**: N/A
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 80. Yann Lecun
+- **Entreprise**: Meta AI
+- **Rôle**: Chief AI Scientist
+- **Spécialité**: Réseaux neuronaux convolutifs (CNNs), apprentissage non supervisé
+- **LinkedIn**: [Yann LeCun](https://www.linkedin.com/in/yann-lecun-82540a1/)
+- **GitHub**: [ylecun](https://github.com/ylecun)
+- **Twitter**: [@ylecun](https://twitter.com/ylecun)
+
+## 81. Andrew Feldman
+- **Entreprise**: Cerebras Systems
+- **Rôle**: CEO et Co-fondateur
+- **Spécialité**: Conception de puces pour deep learning, WSE (Wafer-Scale Engine)
+- **LinkedIn**: [Andrew Feldman](https://www.linkedin.com/in/andrew-feldman-4104a35/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 82. Sean Lie
+- **Entreprise**: Groq
+- **Rôle**: CTO
+- **Spécialité**: Architecture de processeurs pour l'IA, calcul haute performance
+- **LinkedIn**: [Sean Lie](https://www.linkedin.com/in/sean-lie-66a2072/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 83. Craig M. Johnson
+- **Entreprise**: Groq
+- **Rôle**: Ingénieur principal en hardware
+- **Spécialité**: Conception de puces pour IA, optimisation de l'architecture matérielle
+- **LinkedIn**: [Craig M. Johnson](https://www.linkedin.com/in/craig-johnson-34b63849/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 84. Arthur Mensch
+- **Entreprise**: Mistral AI
+- **Rôle**: Co-fondateur et CEO
+- **Spécialité**: Modèles de langage, Deep Learning
+- **LinkedIn**: [Arthur Mensch](https://www.linkedin.com/in/arthur-mensch-9b9264a8/)
+- **GitHub**: [amensch](https://github.com/amensch)
+- **Twitter**: N/A
+
+## 85. Timothée Lacroix
+- **Entreprise**: Mistral AI
+- **Rôle**: Co-fondateur
+- **Spécialité**: Modèles de langage avancés, recherche en IA
+- **LinkedIn**: [Timothée Lacroix](https://www.linkedin.com/in/timothée-lacroix-997185ab/)
+- **GitHub**: [tlacroix](https://github.com/tlacroix)
+- **Twitter**: N/A
+
+## 86. Emad Mostaque
+- **Entreprise**: Stability AI
+- **Rôle**: CEO
+- **Spécialité**: Modèles génératifs, IA pour la création de contenu
+- **LinkedIn**: [Emad Mostaque](https://www.linkedin.com/in/emadmostaque/)
+- **GitHub**: N/A
+- **Twitter**: [@EMostaque](https://twitter.com/EMostaque)
+
+## 87. Robin Rombach
+- **Entreprise**: Stability AI
+- **Rôle**: Chercheur principal
+- **Spécialité**: Modèles de diffusion, IA pour la génération d'images
+- **LinkedIn**: [Robin Rombach](https://www.linkedin.com/in/robin-rombach-002b02191/)
+- **GitHub**: [CompVis](https://github.com/CompVis)
+- **Twitter**: N/A
+
+## 88. Patrick Esser
+- **Entreprise**: Stability AI
+- **Rôle**: Chercheur en IA
+- **Spécialité**: Architectures de diffusion, création multimédia
+- **LinkedIn**: [Patrick Esser](https://www.linkedin.com/in/patrick-esser-920429bb/)
+- **GitHub**: [pesser](https://github.com/pesser)
+- **Twitter**: N/A
+
+## 89. Romain Beaumont
+- **Entreprise**: Stability AI
+- **Rôle**: Chercheur en IA
+- **Spécialité**: IA générative pour les médias interactifs
+- **LinkedIn**: [Romain Beaumont](https://www.linkedin.com/in/romain-beaumont-9b567214b/)
+- **GitHub**: [rbeaumont](https://github.com/rbeaumont)
+- **Twitter**: N/A
+
+## 90. Igor Babuschkin
+- **Entreprise**: xAI (Grok)
+- **Rôle**: Directeur de la recherche
+- **Spécialité**: Alignement des IA, LLMs, apprentissage profond
+- **LinkedIn**: [Igor Babuschkin](https://www.linkedin.com/in/igorbabuschkin/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 91. Manuel Kroiss
+- **Entreprise**: xAI (Grok)
+- **Rôle**: Ingénieur senior en IA
+- **Spécialité**: Algorithmes de deep learning, conception de systèmes IA
+- **LinkedIn**: [Manuel Kroiss](https://www.linkedin.com/in/manuel-kroiss/)
+- **GitHub**: [manuelkroiss](https://github.com/manuelkroiss)
+- **Twitter**: N/A
+
+## 92. Elon Musk
+- **Entreprise**: xAI, Tesla, SpaceX
+- **Rôle**: Fondateur et CEO
+- **Spécialité**: IA avancée, AGI, véhicules autonomes
+- **LinkedIn**: [Elon Musk](https://www.linkedin.com/in/elonmusk/)
+- **GitHub**: N/A
+- **Twitter**: [@elonmusk](https://twitter.com/elonmusk)
+
+## 93. Noam Shazeer
+- **Entreprise**: Character.AI
+- **Rôle**: Co-fondateur et CEO
+- **Spécialité**: Inventeur du Transformer, LLMs, chatbots
+- **LinkedIn**: [Noam Shazeer](https://www.linkedin.com/in/noam-shazeer-52b920/)
+- **GitHub**: [noamshazeer](https://github.com/noamshazeer)
+- **Twitter**: N/A
+
+## 94. Alec Radford
+- **Entreprise**: OpenAI
+- **Rôle**: Chercheur
+- **Spécialité**: Architecte des modèles GPT, CLIP
+- **LinkedIn**: [Alec Radford](https://www.linkedin.com/in/alec-radford-28235810b/)
+- **GitHub**: [AlecRadford](https://github.com/AlecRadford)
+- **Twitter**: N/A
+
+## 95. Tom Henighan
+- **Entreprise**: Anthropic AI
+- **Rôle**: Chercheur principal
+- **Spécialité**: Alignement des IA, sécurité des modèles de langage
+- **LinkedIn**: N/A
+- **GitHub**: [TomHennighan](https://github.com/TomHennighan)
+- **Twitter**: N/A
+
+## 96. Myle Ott
+- **Entreprise**: Meta AI
+- **Rôle**: Chercheur
+- **Spécialité**: Développement de modèles de langage, RoBERTa
+- **LinkedIn**: [Myle Ott](https://www.linkedin.com/in/myle-ott-21427442/)
+- **GitHub**: N/A
+- **Twitter**: N/A
+
+## 97. Angela Fan
+- **Entreprise**: Meta AI
+- **Rôle**: Chercheuse
+- **Spécialité**: Modèles multilingues, NLP, XLM-R
+- **LinkedIn**: [Angela Fan](https://www.linkedin.com/in/angela-fan-6223a8115/)
+- **GitHub**: [angelafan](https://github.com/angelafan)
+- **Twitter**: N/A
+
+## 98. Ethan Perez
+- **Entreprise**: Anthropic AI
+- **Rôle**: Chercheur
+- **Spécialité**: Reformer, efficacité des LLMs, interprétabilité
+- **LinkedIn**: [Ethan Perez](https://www.linkedin.com/in/ethan-perez-764b88140/)
+- **GitHub**: [ethanjperez](https://github.com/ethanjperez)
+- **Twitter**: N/A
+
+## 99. Abhishek Thakur
+- **Entreprise**: Independent, Auteur
+- **Rôle**: Expert en machine learning
+- **Spécialité**: Optimisation des LLMs, tutoriels et guides IA
+- **LinkedIn**: [Abhishek Thakur](https://www.linkedin.com/in/abhishek-thakur-823b535a/)
+- **GitHub**: [abhi1thakur](https://github.com/abhi1thakur)
+- **Twitter**: [@abhi1thakur](https://twitter.com/abhi1thakur)
+
+## 100. Jacques Gariépy (jackboy70)
+- **Entreprise**: Consuktsnt AI
+- **Rôle**: Ingénieur informatique, Développeur et prompt engineer
+- **Spécialité**: IA, LLMs, développement, Deeplearning
+- **LinkedIn**: JacquesGariepy
+- **GitHub**: [jackboy70](https://github.com/jackboy70)
+- **Twitter**: [@JacquesGariepy]https://twitter.com/jacquesgariepy)
