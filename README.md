@@ -51,7 +51,7 @@
 - **Entreprise**: OpenAI
 - **Rôle**: Président et Co-fondateur
 - **Spécialité**: Développement de GPT, stratégie IA
-- **LinkedIn**: [Greg Brockman]([https://www.linkedin.com/in/gregbrockman/](https://www.linkedin.com/in/thegdb)
+- **LinkedIn**: [Greg Brockman](https://www.linkedin.com/in/gregbrockman/)
 - **GitHub**: [gdb](https://github.com/gdb)
 - **Twitter**: [@gdb](https://twitter.com/gdb)
 
