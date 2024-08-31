@@ -28,7 +28,7 @@
 - **Entreprise**: Meta AI
 - **Rôle**: Directeur de l'IA
 - **Spécialité**: Réseaux de neurones convolutifs, Deep Learning
-- **LinkedIn**: [Yann LeCun](https://www.linkedin.com/in/yann-lecun-82540a1/)
+- **LinkedIn**:[Yann LeCun](https://www.linkedin.com/in/yann-lecun?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub**: [ylecun](https://github.com/ylecun)
 - **Twitter**: [@ylecun](https://twitter.com/ylecun)
 
