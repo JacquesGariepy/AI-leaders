@@ -27,7 +27,7 @@
 - **Entreprise**: Meta AI
 - **Rôle**: Chief AI Scientist
 - **Spécialité**: Réseaux de neurones convolutifs, Deep Learning
-- **LinkedIn**: [Yann LeCun](https://www.linkedin.com/in/yann-lecun-82540a1/)
+- **LinkedIn**: [Yann LeCun](https://www.linkedin.com/in/yann-lecun)
 - **GitHub**: [ylecun](https://github.com/ylecun)
 - **Twitter**: [@ylecun](https://twitter.com/ylecun)
 
