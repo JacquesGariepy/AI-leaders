@@ -722,3 +722,7 @@
 - **LinkedIn**: [Jacques Gariépy](https://www.linkedin.com/in/jacquesgariepy)
 - **GitHub**: [Jacques Gariépy](https://github.com/JacquesGariepy)
 - **Twitter**: [@JacquesGariepy](https://twitter.com/jacquesgariepy)
+
+## Nick Dobos
+- Grimoire GPT
+- **Twitter**: https://x.com/NickADobos
