@@ -12,7 +12,7 @@
 - X : [@karpathy](https://x.com/karpathy)
 
 ## Ilya Sutskever
-- **Entreprise**: OpenAI
+- **Entreprise**: SSI.inc
 - **Rôle**: Co-fondateur et Scientifique en chef
 - **Spécialité**: Développement des modèles GPT, alignement des IA
 - **LinkedIn**: https://www.linkedin.com/in/ilya-sutskever/
