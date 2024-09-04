@@ -16,7 +16,7 @@
 - **Rôle**: Co-fondateur et Scientifique en chef
 - **Spécialité**: Développement des modèles GPT, alignement des IA
 - **LinkedIn**: [Ilya Sutskever](https://www.linkedin.com/in/ilya-sutskever/)
-- **GitHub**: N/A
+- **Website**:  ([cs.utoronto.ca/~ilya](https://www.cs.utoronto.ca/~ilya/))
 - **Twitter**: [@ilyasut](https://twitter.com/ilyasut)
 - **Google Scolar** : https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en
 
