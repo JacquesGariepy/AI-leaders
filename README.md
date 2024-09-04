@@ -7,9 +7,11 @@
 - **Twitter**: [@sama](https://twitter.com/sama)
 - https://blog.samaltman.com/
 
-## Andrej Karpathy : Ancien ingénieur en chef chez Tesla, spécialiste en vision par ordinateur et apprentissage profond, il a également travaillé sur des modèles de langage chez OpenAI.
-- LinkedIn : [Andrej Karpathy](https://www.linkedin.com/in/karpathy/)
+## Andrej Karpathy
+- Ancien ingénieur OpenAI. Ingénieur chef chez Tesla, spécialiste en vision par ordinateur et apprentissage profond, il a également travaillé sur des modèles de langage chez OpenAI.
+- Website : [karpathy.ai](https://github.com/karpathy](https://karpathy.ai/ )
 - GitHub : [karpathy](https://github.com/karpathy)
+- X : [@karpathy](https://x.com/karpathy)
 
 ## Ilya Sutskever
 - **Entreprise**: OpenAI
@@ -44,7 +46,8 @@
 - **GitHub**: [geoffhinton](https://github.com/geoffhinton)
 - **Twitter**: [@geoffreyhinton](https://twitter.com/geoffreyhinton)
 
-## Andrew Ng : Co-fondateur de Coursera et pionnier dans le domaine du deep learning, il a également dirigé des projets d'IA chez Google Brain.
+## Andrew Ng
+- Co-fondateur de Coursera et pionnier dans le domaine du deep learning, il a également dirigé des projets d'IA chez Google Brain.
 - **Entreprise**: Landing AI / Coursera
 - **Rôle**: CEO, Co-fondateur
 - **Spécialité**: Machine Learning, éducation en IA, IA industrielle
@@ -52,7 +55,7 @@
 - **GitHub**: [andrewng](https://github.com/andrewyng)
 - **Twitter**: [@AndrewYNg](https://twitter.com/AndrewYNg)
 
-## 7.Greg Brockman
+## Greg Brockman
 - **Entreprise**: OpenAI
 - **Rôle**: Président et Co-fondateur
 - **Spécialité**: Développement de GPT, stratégie IA
