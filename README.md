@@ -24,6 +24,7 @@
 - **Entreprise**: Google DeepMind
 - **Rôle**: CEO et Co-fondateur
 - **Spécialité**: AlphaGo, AlphaFold, IA générale
+- **Website**: (https://www.gatsby.ucl.ac.uk/~demis/)
 - **LinkedIn**: [Demis Hassabis](https://www.linkedin.com/in/demishassabis/)
 - **GitHub**: N/A
 - **Twitter**: [@demishassabis](https://twitter.com/demishassabis)
