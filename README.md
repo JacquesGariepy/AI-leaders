@@ -2,13 +2,11 @@
 - **Entreprise**: OpenAI
 - **Rôle**: CEO
 - **Spécialité**: Supervision des développements majeurs de l'IA, y compris GPT-3, GPT-4, et ChatGPT
-- **LinkedIn**: N/A
-- **GitHub**: N/A
-- **Twitter**: [@sama](https://twitter.com/sama)
-- https://blog.samaltman.com/
+- **Website** : [samaltman](https://blog.samaltman.com/)
+- **X**: [@sama](https://twitter.com/sama)
 
 ## Andrej Karpathy
-- Ancien ingénieur OpenAI. Ingénieur chef chez Tesla, spécialiste en vision par ordinateur et apprentissage profond, il a également travaillé sur des modèles de langage chez OpenAI.
+- I like to train deep neural nets on large datasets 🧠🤖💥
 - Website : [karpathy.ai](https://github.com/karpathy](https://karpathy.ai/ )
 - GitHub : [karpathy](https://github.com/karpathy)
 - X : [@karpathy](https://x.com/karpathy)
