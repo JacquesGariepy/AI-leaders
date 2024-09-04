@@ -26,7 +26,6 @@
 - **Spécialité**: AlphaGo, AlphaFold, IA générale
 - **Website**: (https://www.gatsby.ucl.ac.uk/~demis/)
 - **LinkedIn**: [Demis Hassabis](https://www.linkedin.com/in/demishassabis/)
-- **GitHub**: N/A
 - **Twitter**: [@demishassabis](https://twitter.com/demishassabis)
 
 ## Yann LeCun
@@ -41,8 +40,6 @@
 - **Entreprise**: Google / University of Toronto
 - **Rôle**: Chercheur émérite
 - **Spécialité**: Deep Learning, réseaux de neurones, IA générale
-- **LinkedIn**: N/A
-- **GitHub**: [geoffhinton](https://github.com/geoffhinton)
 - **Twitter**: [@geoffreyhinton](https://twitter.com/geoffreyhinton)
 
 ## Andrew Ng
@@ -58,6 +55,7 @@
 - **Entreprise**: OpenAI
 - **Rôle**: Président et Co-fondateur
 - **Spécialité**: Développement de GPT, stratégie IA
+- ** Website **: https://gregbrockman.com/
 - **LinkedIn**: [Greg Brockman](https://www.linkedin.com/in/thegdb/)
 - **GitHub**: [gdb](https://github.com/gdb)
 - **Twitter**: [@gdb](https://twitter.com/gdb)
