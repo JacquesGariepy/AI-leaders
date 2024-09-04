@@ -16,9 +16,9 @@
 - **Rôle**: Co-fondateur et Scientifique en chef
 - **Spécialité**: Développement des modèles GPT, alignement des IA
 - **LinkedIn**: [Ilya Sutskever](https://www.linkedin.com/in/ilya-sutskever/)
-- **Website**:  ([cs.utoronto.ca/~ilya](https://www.cs.utoronto.ca/~ilya/))
+- **Website**: [cs.utoronto.ca/~ilya](https://www.cs.utoronto.ca/~ilya/)
 - **Twitter**: [@ilyasut](https://twitter.com/ilyasut)
-- **Google Scolar** : https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en
+- **Google Scolar** : [scholar](https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en)
 
 ## Demis Hassabis
 - **Entreprise**: Google DeepMind
