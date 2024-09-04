@@ -2,116 +2,114 @@
 - **Entreprise**: OpenAI
 - **Rôle**: CEO
 - **Spécialité**: Supervision des développements majeurs de l'IA, y compris GPT-3, GPT-4, et ChatGPT
-- **Website** : [samaltman](https://blog.samaltman.com/)
+- **Website** : https://blog.samaltman.com/
 - **X**: [@sama](https://twitter.com/sama)
 
 ## Andrej Karpathy
 - I like to train deep neural nets on large datasets 🧠🤖💥
-- Website : [karpathy.ai](https://github.com/karpathy](https://karpathy.ai/ )
-- GitHub : [karpathy](https://github.com/karpathy)
+- Website : https://karpathy.ai/
+- GitHub : https://github.com/karpathy
 - X : [@karpathy](https://x.com/karpathy)
 
 ## Ilya Sutskever
 - **Entreprise**: OpenAI
 - **Rôle**: Co-fondateur et Scientifique en chef
 - **Spécialité**: Développement des modèles GPT, alignement des IA
-- **LinkedIn**: [Ilya Sutskever](https://www.linkedin.com/in/ilya-sutskever/)
-- **Website**: [cs.utoronto.ca/~ilya](https://www.cs.utoronto.ca/~ilya/)
+- **LinkedIn**: https://www.linkedin.com/in/ilya-sutskever/
+- **Website**: https://www.cs.utoronto.ca/~ilya/
 - **Twitter**: [@ilyasut](https://twitter.com/ilyasut)
-- **Google Scolar** : [scholar](https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en)
+- **Google Scolar** : https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en
 
 ## Demis Hassabis
 - **Entreprise**: Google DeepMind
 - **Rôle**: CEO et Co-fondateur
 - **Spécialité**: AlphaGo, AlphaFold, IA générale
-- **Website**: (https://www.gatsby.ucl.ac.uk/~demis/)
-- **LinkedIn**: [Demis Hassabis](https://www.linkedin.com/in/demishassabis/)
+- **Website**: https://www.gatsby.ucl.ac.uk/~demis/
+- **LinkedIn**: https://www.linkedin.com/in/demishassabis/
 - **Twitter**: [@demishassabis](https://twitter.com/demishassabis)
 
 ## Yann LeCun
 - **Entreprise**: Meta AI
 - **Rôle**: Chief AI Scientist
 - **Spécialité**: Réseaux de neurones convolutifs, Deep Learning
-- **LinkedIn**: [Yann LeCun](https://www.linkedin.com/in/yann-lecun)
-- **GitHub**: [ylecun](https://github.com/ylecun)
+- **LinkedIn**: https://www.linkedin.com/in/yann-lecun
+- **GitHub**: https://github.com/ylecun
 - **Twitter**: [@ylecun](https://twitter.com/ylecun)
 
 ## Geoffrey Hinton
 - **Entreprise**: Google / University of Toronto
 - **Rôle**: Chercheur émérite
 - **Spécialité**: Deep Learning, réseaux de neurones, IA générale
-- **Twitter**: [@geoffreyhinton](https://twitter.com/geoffreyhinton)
+- **Twitter**: https://twitter.com/geoffreyhinton
 
 ## Andrew Ng
 - Co-fondateur de Coursera et pionnier dans le domaine du deep learning, il a également dirigé des projets d'IA chez Google Brain.
 - **Entreprise**: Landing AI / Coursera
 - **Rôle**: CEO, Co-fondateur
 - **Spécialité**: Machine Learning, éducation en IA, IA industrielle
-- **LinkedIn**: [Andrew Ng](https://www.linkedin.com/in/andrewyng/)
-- **GitHub**: [andrewng](https://github.com/andrewyng)
+- **LinkedIn**: https://www.linkedin.com/in/andrewyng/
+- **GitHub**: https://github.com/andrewyng
 - **Twitter**: [@AndrewYNg](https://twitter.com/AndrewYNg)
 
 ## Greg Brockman
 - **Entreprise**: OpenAI
 - **Rôle**: Président et Co-fondateur
 - **Spécialité**: Développement de GPT, stratégie IA
-- ** Website **: https://gregbrockman.com/
-- **LinkedIn**: [Greg Brockman](https://www.linkedin.com/in/thegdb/)
-- **GitHub**: [gdb](https://github.com/gdb)
+- **Website**: https://gregbrockman.com/
+- **LinkedIn**: https://www.linkedin.com/in/thegdb/
+- **GitHub**: https://github.com/gdb
 - **Twitter**: [@gdb](https://twitter.com/gdb)
 
-## 8. Jensen Huang
+## Jensen Huang
 - **Entreprise**: NVIDIA
 - **Rôle**: CEO et Co-fondateur
 - **Spécialité**: Accélération GPU, Deep Learning, IA matérielle
-- **LinkedIn**: [Jensen Huang](https://www.linkedin.com/in/jenhsunhuang)
-- **GitHub**: N/A
-- **Twitter**: N/A
+- **LinkedIn**: https://www.linkedin.com/in/jenhsunhuang
 
-## 9. Oriol Vinyals
+## Oriol Vinyals
 - **Entreprise**: Google DeepMind
 - **Rôle**: Chercheur principal
 - **Spécialité**: Transformer, Attention Mechanism, LLMs
-- **LinkedIn**: [Oriol Vinyals](https://www.linkedin.com/in/oriol-vinyals-00b3366)
-- **GitHub**: N/A
-- **Twitter**: N/A
+- **LinkedIn**: https://www.linkedin.com/in/oriol-vinyals-00b3366
+- **Twitter**: [@oriolvinyalsml](https://x.com/oriolvinyalsml)
 
-## 10. Aidan Gomez
+## Aidan Gomez
 - **Entreprise**: Cohere AI
 - **Rôle**: CEO et Co-fondateur
 - **Spécialité**: Co-inventeur du Transformer, LLMs
-- **LinkedIn**: [Aidan Gomez](https://www.linkedin.com/in/aidangomez)
-- **GitHub**: [aidangomez](https://github.com/aidangomez)
+- **Website**: https://gom.ai/
+- **LinkedIn**: https://www.linkedin.com/in/aidangomez
+- **GitHub**: https://github.com/aidangomez
 - **Twitter**: [@AidanGomez](https://twitter.com/AidanGomez)
 
-## 11. John Schulman
+## John Schulman
 - **Entreprise**: OpenAI
 - **Rôle**: Co-fondateur
 - **Spécialité**: Reinforcement Learning, Proximal Policy Optimization (PPO)
-- **LinkedIn**: [John Schulman](https://www.linkedin.com/in/john-schulman-5b03923b/)
-- **GitHub**: [joschu](https://github.com/joschu)
-- **Twitter**: N/A
+- **Website**: http://joschu.net/
+- **GitHub**: https://github.com/joschu
+- **Twitter**: [@johnschulman2](https://x.com/johnschulman2)
 
-## 12. David Silver
+## David Silver
 - **Entreprise**: Google DeepMind
 - **Rôle**: Chercheur principal
 - **Spécialité**: Reinforcement Learning, AlphaGo
-- **LinkedIn**: [David Silver](https://www.linkedin.com/in/david-silver-39a68037/)
-- **GitHub**: N/A
-- **Twitter**: N/A
+- **scholar** : https://scholar.google.ca/citations?user=-8DNE4UAAAAJ&hl=en
+- **Website**: https://www.davidsilver.uk/
 
-## 13. Chris Olah
+## Chris Olah
 - **Entreprise**: Anthropic AI / OpenAI (anciennement)
 - **Rôle**: Chercheur principal
 - **Spécialité**: Interprétabilité des réseaux de neurones, pédagogie IA
-- **LinkedIn**: [Chris Olah](https://www.linkedin.com/in/chris-olah-96357b7a/)
+- **Website**: https://colah.github.io/
 - **GitHub**: [colah](https://github.com/colah)
 - **Twitter**: [@ch402](https://twitter.com/ch402)
 
-## 14. Tom B. Brown
+## Tom B. Brown
 - **Entreprise**: Anthropic AI / OpenAI (anciennement)
 - **Rôle**: Chercheur principal
 - **Spécialité**: Développement de GPT-3
+- **arxiv** : https://arxiv.org/search/cs?searchtype=author&query=Brown,+T+B
 - **LinkedIn**: N/A
 - **GitHub**: [tommyb](https://github.com/tommyb)
 - **Twitter**: N/A
